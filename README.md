@@ -222,6 +222,13 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 </p>
 
 ---
+### ⏱️ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## Links
 
 - [Portfolio](https://juliusmartinbanda.web.app)
