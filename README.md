@@ -8,12 +8,9 @@
 
 # 👋 Hi, I'm **Julius Martin Banda**
 ### **Software Development Officer | Full-Stack Mobile Applications Developer (Android • Flutter • SwiftUI • KMP)**  
-📍 Lusaka Province, Zambia  
+📍 Lusaka, Zambia  
 📧 **bandahmj@gmail.com**  
 📱 **+260 972 489 279**  
-- [Portfolio](https://juliusmartinbanda.web.app)
-- [LinkedIn](https://www.linkedin.com/in/juliusbandamartin/)
-- [GitHub](https://github.com/Jules369-ZM)
 
 ---
 
@@ -233,15 +230,24 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 </p>
 
 ---
+## Links
 
-# 🤝 Connect with Me
+- [Portfolio](https://juliusmartinbanda.web.app)
+- [LinkedIn](https://www.linkedin.com/in/juliusbandamartin/)
+- [GitHub](https://github.com/Jules369-ZM)
+- [WhatsApp](https://wa.me/260972489279)
+- [Email](mailto:bandahmj@gmail.com)
+  
+---
+# 📬 **Let's Connect**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juliusbandamartin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:bandahmj@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://wa.me/260972489279"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 ---
+
+<p align="center"><i>🔥 Built with passion. Crafted with code. Powered by caffeine.</i></p>
 
 ### ✨ *Thank you for visiting my profile!*  
