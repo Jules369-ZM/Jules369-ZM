@@ -232,15 +232,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 
 ---
 
-# 👀 Visitor Counter
-
-
-
----
-
 <p align="center"><i>🔥 Built with passion. Crafted with code. Powered by caffeine.</i></p>
-
----
 
 ### ✨ *Thank you for visiting my profile!*      <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jules369-ZM&style=for-the-badge&color=blue" />
