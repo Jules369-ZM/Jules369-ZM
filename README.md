@@ -66,7 +66,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 - JUnit, Mockito, Espresso, Compose Test
 
 ### **CI/CD**
-- GitHub Actions, Fastlane, Firebase App Distribution
+- GitHub Actions, Firebase App Distribution
 
 ### **Cloud**
 - Firebase, Google Cloud
@@ -95,21 +95,14 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 
 ---
 
-# 🚀 **Featured Projects (Pinned Grid)**
+# 🚀 **Featured Projects**
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=RoadGuard&theme=radical" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=live_face_auth_demo&theme=radical" /></a>
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=field_master&theme=radical" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=FSM_APP&theme=radical" /></a>
-</p>
-
-<p align="center">
-   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=my_expense_tracker&theme=radical" /></a>
-</p>
+- **Unka Go – Request a Ride:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.unka)
+- **Penda:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.msme)
+- **Unka Go Driver:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.unka.driver)
+- **Nyamula:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.nyamula)
+- **eWorkers:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.workers)
+- **LCCShimzlaw:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.billboards)
 
 ---
 
