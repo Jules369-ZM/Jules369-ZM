@@ -44,34 +44,14 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 
 # 🛠 **Core Technical Skills**
 
-### **Mobile Development**
 - Android (Jetpack Compose, XML), Flutter, React Native, SwiftUI
-
-### **Languages**
 - Kotlin, Dart, TypeScript, Swift, Java
-
-### **Architecture**
-- MVVM, Clean Architecture, Repository Pattern, MVI
-
-### **State Management**
+- MVVM, Clean Architecture, Repository Pattern, MVI, Very Good CLI
 - ViewModel, LiveData, Flow, Provider, Bloc
-
-### **Backend / API**
 - REST, Retrofit, Ktor, Firebase
-
-### **Storage**
 - SQLite, DataStore, Hive, SharedPreferences
-
-### **Testing**
 - JUnit, Mockito, Espresso, Compose Test
-
-### **CI/CD**
-- GitHub Actions, Firebase App Distribution
-
-### **Cloud**
 - Firebase, Google Cloud
-
-### **Web**
 - React, Next.js, Node.js, TypeScript, Tailwind CSS
 
 ---
