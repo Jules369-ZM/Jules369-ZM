@@ -1,19 +1,13 @@
-<!-- =====================================
-        🔥 CUSTOM BANNER IMAGE
-=========================================-->
-<p align="center">
-  <img src="https://i.imgur.com/1Q9Z1Zm.png" width="100%" alt="banner"/>
-</p>
 
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=18F7FF&center=true&vCenter=true&width=900&lines=Julius+Martin+Banda;Software+Development+Officer;Android+%7C+Flutter+%7C+SwiftUI+%7C+KMM;Cross-Platform+Mobile+Developer;Building+Modern+Apps+with+Precision+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=18F7FF&center=true&vCenter=true&width=900&lines=Julius+Martin+Banda;Software+Development+Officer+|+Full-Stack+Mobile+Applications+Developer;Android+%7C+Flutter+%7C+SwiftUI+%7C+KMP;Cross-Platform+Mobile+Developer;Building+Modern+Apps+with+Precision+🚀" />
 </p>
 
 ---
 
 # 👋 Hi, I'm **Julius Martin Banda**
-### **Software Development Officer | Mobile Developer (Android • Flutter • SwiftUI • KMM)**  
+### **Software Development Officer | Full-Stack Mobile Applications Developer (Android • Flutter • SwiftUI • KMP)**  
 📍 Lusaka Province, Zambia  
 📧 **bandahmj@gmail.com**  
 📱 **+260 972 489 279**  
@@ -60,10 +54,10 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 - MVVM, Clean Architecture, Repository Pattern, MVI
 
 ### **State Management**
-- ViewModel, LiveData, Flow, Provider, Riverpod, Bloc
+- ViewModel, LiveData, Flow, Provider, Bloc
 
 ### **Backend / API**
-- REST, GraphQL, Retrofit, Ktor, Firebase
+- REST, Retrofit, Ktor, Firebase
 
 ### **Storage**
 - SQLite, DataStore, Hive, SharedPreferences
@@ -75,7 +69,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 - GitHub Actions, Fastlane, Firebase App Distribution
 
 ### **Cloud**
-- Firebase, Supabase, Google Cloud
+- Firebase, Google Cloud
 
 ### **Web**
 - React, Next.js, Node.js, TypeScript, Tailwind CSS
@@ -90,14 +84,14 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 
 ### 🏗 Architecture & State
-| MVVM | MVI | Clean Architecture | Bloc | Riverpod | Flow | ViewModel |
+| MVVM | MVI | Clean Architecture | Bloc | Provider | Flow | ViewModel |
 |------|------|-------------------|------|----------|------|-----------|
 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
 ### 🧩 Web & Cloud
-| Next.js | React | Node.js | Firebase | Supabase | Google Cloud |
+| Next.js | React | Node.js | Firebase  | Google Cloud |
 |---------|--------|---------|----------|-----------|---------------|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 
 ---
 
