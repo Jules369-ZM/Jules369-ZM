@@ -224,8 +224,10 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 ---
 ## Links
 
-- [Portfolio](https://juliusmartinbanda.web.app)            - [LinkedIn](https://www.linkedin.com/in/juliusbandamartin/)
-- [GitHub](https://github.com/Jules369-ZM)            - [WhatsApp](https://wa.me/260972489279)
+- [Portfolio](https://juliusmartinbanda.web.app)
+- [LinkedIn](https://www.linkedin.com/in/juliusbandamartin/)
+- [GitHub](https://github.com/Jules369-ZM)
+- [WhatsApp](https://wa.me/260972489279)
 - [Email](mailto:bandahmj@gmail.com)
 
 ---
