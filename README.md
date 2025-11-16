@@ -1,7 +1,7 @@
 
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=18F7FF&center=true&vCenter=true&width=900&lines=Julius+Martin+Banda;Software+Development+Officer+|+Full-Stack+Mobile+Applications+Developer;Android+%7C+Flutter+%7C+SwiftUI+%7C+KMP;Cross-Platform+Mobile+Developer;Building+Modern+Apps+with+Precision+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=18F7FF&center=true&vCenter=true&width=900&lines=Julius+Martin+Banda;Full-Stack+Mobile+Applications+Developer;Android+%7C+Flutter+%7C+SwiftUI+%7C+KMP;Cross-Platform+Mobile+Developer;Building+Modern+Apps+with+Precision+🚀" />
 </p>
 
 ---
