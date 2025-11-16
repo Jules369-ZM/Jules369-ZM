@@ -108,7 +108,6 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=ComposedBeats&theme=radical" /></a>
    <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=my_expense_tracker&theme=radical" /></a>
 </p>
 
