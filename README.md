@@ -11,9 +11,9 @@
 📍 Lusaka Province, Zambia  
 📧 **bandahmj@gmail.com**  
 📱 **+260 972 489 279**  
-- [Portfolio](https://juliusmartinbanda.web.app)
-- [LinkedIn](https://www.linkedin.com/in/juliusbandamartin/)
-- [GitHub](https://github.com/Jules369-ZM)
+**[Portfolio](https://juliusmartinbanda.web.app)
+**[LinkedIn](https://www.linkedin.com/in/juliusbandamartin/)
+**[GitHub](https://github.com/Jules369-ZM) 
 🆔 NRC: **639131/52/1**  
 🎂 **25 September 1996**  
 
