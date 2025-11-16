@@ -90,7 +90,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 
 ### 🧩 Web & Cloud
 | Next.js | React | Node.js | Firebase  | Google Cloud |
-|---------|--------|---------|----------|-----------|---------------|
+|---------|--------|---------|----------|-----------|--------------
 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 
 ---
@@ -98,17 +98,18 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 # 🚀 **Featured Projects (Pinned Grid)**
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=eWorkers&theme=radical" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=BevuraApp&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=bet_track_pro&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=live_face_auth_demo&theme=radical" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=PersonalPortfolioCMS&theme=radical" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=UbuntuQuotesAI&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=personal_site&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=live_face_auth&theme=radical" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=ChumaSplit&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=chuma_split&theme=radical" /></a>
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=UbuntuQuotesWebApp&theme=radical" /></a>
 </p>
 
 ---
