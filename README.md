@@ -207,7 +207,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 
 ---
 
-# 📊 GitHub Stats (Dark/Light Auto Mode)
+# 📊 GitHub Stats
 
 <p align="center">
   <picture>
