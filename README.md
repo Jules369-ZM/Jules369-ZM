@@ -1,96 +1,137 @@
-<!-- ===========================
-      🔥 CUSTOM BANNER IMAGE
-================================-->
+<!-- =====================================
+        🔥 CUSTOM BANNER IMAGE
+=========================================-->
 <p align="center">
-  <img src="https://i.imgur.com/1Q9Z1Zm.png" width="100%" alt="banner" />
+  <img src="https://i.imgur.com/1Q9Z1Zm.png" width="100%" alt="banner"/>
 </p>
 
-<!-- Animated typing -->
+<!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=18F7FF&center=true&vCenter=true&width=900&lines=Julius+Banda;Mobile+Developer;Android+%7C+Flutter+%7C+SwiftUI+%7C+KMP;Clean+Architecture+Advocate;Building+Modern+Mobile+Experiences+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=18F7FF&center=true&vCenter=true&width=900&lines=Julius+Martin+Banda;Software+Development+Officer;Android+%7C+Flutter+%7C+SwiftUI+%7C+KMM;Cross-Platform+Mobile+Developer;Building+Modern+Apps+with+Precision+🚀" />
 </p>
 
 ---
 
 # 👋 Hi, I'm **Julius Martin Banda**
-### Full-Stack Mobile Applications Developer (Android • Flutter • SwiftUI • Kotlin Multiplatform)
+### **Software Development Officer | Mobile Developer (Android • Flutter • SwiftUI • KMM)**  
+📍 Lusaka Province, Zambia  
+📧 **bandahmj@gmail.com**  
+📱 **+260 972 489 279**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/juliusbandamartin/  
+🔗 **GitHub:** https://github.com/Jules369-ZM  
+🆔 NRC: **639131/52/1**  
+🎂 **25 September 1996**  
 
 ---
 
-# 🌗 Auto Dark / Light Mode (GitHub Native)
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true&theme=radical"
-      media="(prefers-color-scheme: dark)" />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true"
-      media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true" />
-  </picture>
-</p>
+# 🧑‍💻 **Profile Summary**
+Software developer with **4+ years** of experience specializing in **cross-platform mobile applications**.  
+Skilled in **Next.js, Dart, Jetpack Compose, SwiftUI**, and modern UI development.  
+Focused on creating **responsive, secure, scalable, and user-friendly apps** across Android, iOS, and web.
 
 ---
 
-# 🛡️ Badges / Shields
+# 📚 **Education**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KMM-000000?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+### 🎓 Advanced Diploma in Modern Application Development  
+**Alison (Online)** — 11/2024 – 02/2025  
+
+### 🎓 Diploma in Computer Science & Mathematics Education  
+**Evelyn Hone College, Lusaka** — 01/2018 – 12/2020  
 
 ---
 
-# 🧠 Skills Matrix (Portfolio Style)
+# 🎖 **Certificates**
+- App Development using Dart  
+- Flutter Fundamentals  
+- Introduction to Mobile App Development with Flutter  
+
+---
+
+# 🛠 **Core Technical Skills**
 
 ### **Mobile Development**
-| Android (Kotlin) | Jetpack Compose | XML | Hilt | Coroutines | DataStore |
-|------------------|-----------------|-----|------|------------|-----------|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+- Android (Jetpack Compose, XML), Flutter, React Native, SwiftUI
 
-### **iOS & Cross-Platform**
-| SwiftUI | Swift | Flutter | Dart | KMP / KMM |
-|--------|--------|---------|------|-----------|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+### **Languages**
+- Kotlin, Dart, TypeScript, Swift, Java
 
-### **Backend & Cloud**
-| Ktor | FastAPI | Python | Firebase | AWS |
-|------|---------|--------|----------|-----|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+### **Architecture**
+- MVVM, Clean Architecture, Repository Pattern, MVI
 
-### **Tools & DevOps**
-| GitHub | Git | Android Studio | Xcode | VS Code | Postman |
-|--------|------|----------------|-------|---------|----------|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+### **State Management**
+- ViewModel, LiveData, Flow, Provider, Riverpod, Bloc
+
+### **Backend / API**
+- REST, GraphQL, Retrofit, Ktor, Firebase
+
+### **Storage**
+- SQLite, DataStore, Hive, SharedPreferences
+
+### **Testing**
+- JUnit, Mockito, Espresso, Compose Test
+
+### **CI/CD**
+- GitHub Actions, Fastlane, Firebase App Distribution
+
+### **Cloud**
+- Firebase, Supabase, Google Cloud
+
+### **Web**
+- React, Next.js, Node.js, TypeScript, Tailwind CSS
 
 ---
 
-# 📌 Pinned Project Grid (Portfolio Section)
+# 🧠 **Skills Matrix (Portfolio Style)**
+
+### 📱 Mobile Development
+| Jetpack Compose | Flutter | SwiftUI | React Native | Kotlin | Dart | Swift |
+|----------------|---------|----------|--------------|--------|------|--------|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
+### 🏗 Architecture & State
+| MVVM | MVI | Clean Architecture | Bloc | Riverpod | Flow | ViewModel |
+|------|------|-------------------|------|----------|------|-----------|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+
+### 🧩 Web & Cloud
+| Next.js | React | Node.js | Firebase | Supabase | Google Cloud |
+|---------|--------|---------|----------|-----------|---------------|
+| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+
+---
+
+# 🚀 **Featured Projects (Pinned Grid)**
 
 <p align="center">
-  <a href="https://github.com/Jules369-ZM/ComposedBeats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=ComposedBeats&theme=radical" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=JoyfulJourneys&theme=radical" />
-  </a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=eWorkers&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=BevuraApp&theme=radical" /></a>
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=Flutter-Toolkit&theme=radical" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=Ktor-Mobile-API&theme=radical" />
-  </a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=PersonalPortfolioCMS&theme=radical" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=UbuntuQuotesAI&theme=radical" /></a>
 </p>
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jules369-ZM&repo=ChumaSplit&theme=radical" /></a>
+</p>
+
+---
+
+# 💼 **Professional Experience**
+
+## **Software Development Officer — ProBase Limited**  
+📍 Lusaka, Zambia | **03/2021 – Present**
+
+- Built **cross-platform mobile applications** using Flutter  
+- Developed **responsive UI** using Material Design principles  
+- Implemented **state management** with Bloc, Provider, Riverpod  
+- Integrated **Firebase authentication, Firestore, cloud functions**  
+- Collaborated with UI/UX and backend teams  
+- Ensured **security compliance** in mobile applications  
+- Solved complex debugging and deployment issues  
+- Contributed to **internal mobile app frameworks** and optimizations  
 
 ---
 
@@ -102,13 +143,13 @@
 
 ---
 
-# 📊 GitHub Stats (Auto Dark/Light)
+# 📊 GitHub Stats (Dark/Light Auto Mode)
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules369-ZM&layout=compact&theme=radical" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules369-ZM&layout=compact" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules369-ZM&layout=compact" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true" media="(prefers-color-scheme: light)">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true"/>
   </picture>
 </p>
 
@@ -126,13 +167,14 @@
 
 ---
 
-# 🌐 Connect With Me  
+# 🤝 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/julius-banda">
+  <a href="https://www.linkedin.com/in/juliusbandamartin/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ✨ Thank you for visiting my profile!
+### ✨ *Thank you for visiting my profile!*  
