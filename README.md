@@ -1,9 +1,3 @@
-
-<!-- Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=18F7FF&center=true&vCenter=true&width=900&lines=Julius+Martin+Banda;Full-Stack+Mobile+Applications+Developer;Android+%7C+Flutter+%7C+SwiftUI+%7C+KMP;Cross-Platform+Mobile+Developer;Building+Modern+Apps+with+Precision+🚀" />
-</p>
-
 ---
 
 # 👋 Hi, I'm **Julius Martin Banda**
@@ -11,6 +5,12 @@
 📍 Lusaka, Zambia  
 📧 **bandahmj@gmail.com**  
 📱 **+260 972 489 279**  
+
+---
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=18F7FF&center=true&vCenter=true&width=900&lines=Julius+Martin+Banda;Full-Stack+Mobile+Applications+Developer;Android+%7C+Flutter+%7C+SwiftUI+%7C+KMP;Cross-Platform+Mobile+Developer;Building+Modern+Apps+with+Precision+🚀" />
+</p>
 
 ---
 
@@ -222,6 +222,15 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 </p>
 
 ---
+## Links
+
+- [Portfolio](https://juliusmartinbanda.web.app)
+- [LinkedIn](https://www.linkedin.com/in/juliusbandamartin/)
+- [GitHub](https://github.com/Jules369-ZM)
+- [WhatsApp](https://wa.me/260972489279)
+- [Email](mailto:bandahmj@gmail.com)
+
+---
 
 # 👀 Visitor Counter
 
@@ -230,24 +239,9 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 </p>
 
 ---
-## Links
-
-- [Portfolio](https://juliusmartinbanda.web.app)
-- [LinkedIn](https://www.linkedin.com/in/juliusbandamartin/)
-- [GitHub](https://github.com/Jules369-ZM)
-- [WhatsApp](https://wa.me/260972489279)
-- [Email](mailto:bandahmj@gmail.com)
-  
----
-# 📬 **Let's Connect**
-
-<p align="center">
-  <a href="mailto:bandahmj@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://wa.me/260972489279"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"></a>
-</p>
-
----
 
 <p align="center"><i>🔥 Built with passion. Crafted with code. Powered by caffeine.</i></p>
+
+---
 
 ### ✨ *Thank you for visiting my profile!*  
