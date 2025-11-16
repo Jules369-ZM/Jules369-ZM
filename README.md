@@ -234,9 +234,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 
 # 👀 Visitor Counter
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jules369-ZM&style=for-the-badge&color=blue" />
-</p>
+
 
 ---
 
@@ -244,4 +242,6 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 
 ---
 
-### ✨ *Thank you for visiting my profile!*  
+### ✨ *Thank you for visiting my profile!*      <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jules369-ZM&style=for-the-badge&color=blue" />
+</p>
