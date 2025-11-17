@@ -1,10 +1,10 @@
 ---
 
 # 👋 Hi, I'm **Julius Martin Banda**
-### **Software Development Officer | Full-Stack Mobile Applications Developer (Android • Flutter • SwiftUI • KMP)**  
-📍 Lusaka, Zambia  
-📧 **bandahmj@gmail.com**  
-📱 **+260 972 489 279**  
+### **Software Development Officer | Full-Stack Mobile Applications Developer (Android • Flutter • SwiftUI • KMP)**
+📍 Lusaka, Zambia
+📧 **bandahmj@gmail.com**
+📱 **+260 972 489 279**
 
 ---
 <!-- Animated Intro -->
@@ -15,26 +15,26 @@
 ---
 
 # 🧑‍💻 **Profile Summary**
-Software developer with **4+ years** of experience specializing in **cross-platform mobile applications**.  
-Skilled in **Next.js, Dart, Jetpack Compose, SwiftUI**, and modern UI development.  
+Software developer with **4+ years** of experience specializing in **cross-platform mobile applications**.
+Skilled in **Next.js, Dart, Jetpack Compose, SwiftUI**, and modern UI development.
 Focused on creating **responsive, secure, scalable, and user-friendly apps** across Android, iOS, and web.
 
 ---
 
 # 📚 **Education**
 
-### 🎓 Advanced Diploma in Modern Application Development  
-**Alison (Online)** — 11/2024 – 02/2025  
+### 🎓 Advanced Diploma in Modern Application Development
+**Alison (Online)** — 11/2024 – 02/2025
 
-### 🎓 Diploma in Computer Science & Mathematics Education  
-**Evelyn Hone College, Lusaka** — 01/2018 – 12/2020  
+### 🎓 Diploma in Computer Science & Mathematics Education
+**Evelyn Hone College, Lusaka** — 01/2018 – 12/2020
 
 ---
 
 # 🎖 **Certificates**
-- App Development using Dart  
-- Flutter Fundamentals  
-- Introduction to Mobile App Development with Flutter  
+- App Development using Dart
+- Flutter Fundamentals
+- Introduction to Mobile App Development with Flutter
 
 ---
 
@@ -53,34 +53,34 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 ---
 
 ## 🛠️ Languages and Tools:
-<p align="left"> 
+<p align="left">
   <!-- Mobile Development -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://swift.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
-  </a> 
-  
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://swift.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  </a>
+
   <!-- Backend & Databases -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   </a>
@@ -99,7 +99,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   </a>
-  
+
   <!-- Cloud & DevOps -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
@@ -119,7 +119,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
-  
+
   <!-- Web Development -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -142,7 +142,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
-  
+
   <!-- Other Tools -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -162,12 +162,12 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a> 
+  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -185,17 +185,17 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 
 # 💼 **Professional Experience**
 
-## **Software Development Officer — ProBase Limited**  
+## **Software Development Officer — ProBase Limited**
 📍 Lusaka, Zambia | **03/2021 – Present**
 
-- Built **cross-platform mobile applications** using Flutter  
-- Developed **responsive UI** using Material Design principles  
-- Implemented **state management** with Bloc, Provider, Riverpod  
-- Integrated **Firebase authentication, Firestore, cloud functions**  
-- Collaborated with UI/UX and backend teams  
-- Ensured **security compliance** in mobile applications  
-- Solved complex debugging and deployment issues  
-- Contributed to **internal mobile app frameworks** and optimizations  
+- Built **cross-platform mobile applications** using Flutter
+- Developed **responsive UI** using Material Design principles
+- Implemented **state management** with Bloc, Provider, Riverpod
+- Integrated **Firebase authentication, Firestore, cloud functions**
+- Collaborated with UI/UX and backend teams
+- Ensured **security compliance** in mobile applications
+- Solved complex debugging and deployment issues
+- Contributed to **internal mobile app frameworks** and optimizations
 
 ---
 
@@ -222,10 +222,15 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 </p>
 
 ---
-### ⏱️ WakaTime Stats
+
+# ⏱️ WakaTime Coding Activity
+
+<div align="center">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</div>
 
 ---
 
