@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs%202%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -254,7 +254,7 @@ admin_frontend           2 hrs 9 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 08/12/2025 21:36:12 UTC
+ Last Updated on 08/12/2025 22:13:05 UTC
 <!--END_SECTION:waka-->
 
 </div>
