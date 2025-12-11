@@ -228,33 +228,10 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-867%20hrs%2011%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lusaka
-
-💬 Programming Languages: 
-JavaScript               10 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.24 % 
-Markdown                 2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-HTML                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Bash                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-TypeScript               1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 45 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-LegacyFullStackCertificat13 hrs 58 mins      ███████████████░░░░░░░░░░   58.86 % 
-DocuIntel_Platform       4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-ResponsiveWebDesignCertif4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-JavaScriptCertification  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-auth                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2052%20mins-blue)
 
 
- Last Updated on 11/12/2025 22:13:37 UTC
+ Last Updated on 11/12/2025 22:42:10 UTC
 <!--END_SECTION:waka-->
 
 </div>
