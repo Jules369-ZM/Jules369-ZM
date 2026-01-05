@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -236,17 +236,22 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+JavaScript               1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+HTML                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+CSS                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LegacyFullStackCertificat2 hrs 13 mins       █████████████░░░░░░░░░░░░   53.23 % 
+ZamBet_Pro               1 hr 57 mins        ████████████░░░░░░░░░░░░░   46.77 % 
 ```
 
 
- Last Updated on 05/01/2026 22:14:11 UTC
+ Last Updated on 05/01/2026 22:43:58 UTC
 <!--END_SECTION:waka-->
 
 </div>
