@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%2045%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -250,7 +250,7 @@ ZamBet_Pro               7 hrs 10 mins       ███████████�
 ```
 
 
- Last Updated on 07/02/2026 21:46:56 UTC
+ Last Updated on 07/02/2026 22:17:41 UTC
 <!--END_SECTION:waka-->
 
 </div>
