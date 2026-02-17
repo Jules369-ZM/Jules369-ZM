@@ -228,32 +228,10 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C002%20hrs%2029%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lusaka
-
-💬 Programming Languages: 
-Go                       10 hrs 39 mins      █████████████████░░░░░░░░   68.13 % 
-Text                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-TypeScript               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 36 mins      █████████████████████████   99.78 % 
-Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-
-🐱‍💻 Projects: 
-ZamBet_Pro               15 hrs 36 mins      █████████████████████████   99.78 % 
-nrfa-e-toll-app-v2       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-betting_platform         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%2018%20mins-blue?style=flat)
 
 
- Last Updated on 17/02/2026 22:22:10 UTC
+ Last Updated on 17/02/2026 22:55:58 UTC
 <!--END_SECTION:waka-->
 
 </div>
