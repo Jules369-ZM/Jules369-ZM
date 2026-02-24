@@ -228,34 +228,10 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2050%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lusaka
-
-💬 Programming Languages: 
-Kotlin                   14 hrs 53 mins      █████████████░░░░░░░░░░░░   50.76 % 
-Go                       3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Java                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TypeScript               1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-XML                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-
-🔥 Editors: 
-Android Studio           22 hrs 7 mins       ███████████████████░░░░░░   75.42 % 
-VS Code                  7 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-
-🐱‍💻 Projects: 
-nrfa-e-toll-application  14 hrs 56 mins      █████████████░░░░░░░░░░░░   50.93 % 
-ZamBet_Pro               5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Print Sample 1           3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Prnt Sample              1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-LegacyFullStackCertificat1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2030%20mins-blue?style=flat)
 
 
- Last Updated on 24/02/2026 22:28:44 UTC
+ Last Updated on 24/02/2026 23:00:16 UTC
 <!--END_SECTION:waka-->
 
 </div>
