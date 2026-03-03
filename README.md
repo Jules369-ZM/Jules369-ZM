@@ -230,8 +230,32 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C054%20hrs%2044%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/03/2026 22:51:37 UTC
+```text
+🕑︎ Time Zone: Africa/Lusaka
+
+💬 Programming Languages: 
+Kotlin                   6 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.52 % 
+Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Text                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Go                       1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+
+🔥 Editors: 
+Android Studio           8 hrs 29 mins       ███████████████░░░░░░░░░░   59.65 % 
+VS Code                  5 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.35 % 
+
+🐱‍💻 Projects: 
+nrfa-e-toll-application  4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+Connectivity Support     4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+ZamBet_Pro               2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+betting_platform         2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JOAT_Cash                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+```
+
+
+ Last Updated on 03/03/2026 23:18:48 UTC
 <!--END_SECTION:waka-->
 
 </div>
