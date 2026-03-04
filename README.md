@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C054%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -236,26 +236,26 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.52 % 
-Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Text                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Go                       1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Kotlin                   4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.86 % 
+Go                       2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Text                     2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+XML                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
-Android Studio           8 hrs 29 mins       ███████████████░░░░░░░░░░   59.65 % 
-VS Code                  5 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.35 % 
+VS Code                  7 hrs 19 mins       ██████████████░░░░░░░░░░░   55.74 % 
+Android Studio           5 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.26 % 
 
 🐱‍💻 Projects: 
-nrfa-e-toll-application  4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Connectivity Support     4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-ZamBet_Pro               2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-betting_platform         2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-JOAT_Cash                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+ZamBet_Pro               5 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.41 % 
+Connectivity Support     3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+betting_platform         2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+nrfa-e-toll-application  2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 
- Last Updated on 04/03/2026 22:25:13 UTC
+ Last Updated on 04/03/2026 22:55:19 UTC
 <!--END_SECTION:waka-->
 
 </div>
