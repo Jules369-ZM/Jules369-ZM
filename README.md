@@ -236,26 +236,26 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-Text                     2 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Go                       1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Kotlin                   2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+Text                     1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Go                       1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 59 mins       █████████████████░░░░░░░░   67.95 % 
-Android Studio           2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
+VS Code                  5 hrs 45 mins       █████████████████░░░░░░░░   67.09 % 
+Android Studio           2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.91 % 
 
 🐱‍💻 Projects: 
-ZamBet_Pro               5 hrs 57 mins       █████████████████░░░░░░░░   67.52 % 
-Connectivity Support     2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-nrfa-e-toll-application  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-betting_platform         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+ZamBet_Pro               5 hrs 43 mins       █████████████████░░░░░░░░   66.65 % 
+Connectivity Support     2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+nrfa-e-toll-application  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+betting_platform         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 
- Last Updated on 09/03/2026 22:20:22 UTC
+ Last Updated on 09/03/2026 22:52:16 UTC
 <!--END_SECTION:waka-->
 
 </div>
