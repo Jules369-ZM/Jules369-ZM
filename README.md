@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -236,26 +236,26 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.40 % 
-Go                       1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Text                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-TypeScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+JavaScript               1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+Markdown                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Dart                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Text                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 47 mins       ████████████████░░░░░░░░░   64.89 % 
-Android Studio           2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
+VS Code                  6 hrs 37 mins       █████████████████████████   99.79 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-ZamBet_Pro               4 hrs 44 mins       ████████████████░░░░░░░░░   64.38 % 
-Connectivity Support     2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-betting_platform         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-nrfa-e-toll-application  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZamBet_Pro               2 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.77 % 
+bevura                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+LegacyFullStackCertificat58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+IssueTracker             51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+PersonalLibrary          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 ```
 
 
- Last Updated on 11/03/2026 22:19:54 UTC
+ Last Updated on 11/03/2026 22:47:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
