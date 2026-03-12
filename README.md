@@ -236,26 +236,26 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-Markdown                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Dart                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Text                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+JavaScript               1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   30.07 % 
+Dart                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Markdown                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Text                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 37 mins       █████████████████████████   99.79 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+VS Code                  6 hrs 24 mins       █████████████████████████   99.94 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-ZamBet_Pro               2 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.77 % 
-bevura                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-LegacyFullStackCertificat58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-IssueTracker             51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-PersonalLibrary          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+ZamBet_Pro               2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.74 % 
+bevura                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+LegacyFullStackCertificat58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+IssueTracker             51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+PersonalLibrary          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 ```
 
 
- Last Updated on 12/03/2026 22:17:24 UTC
+ Last Updated on 12/03/2026 22:50:09 UTC
 <!--END_SECTION:waka-->
 
 </div>
