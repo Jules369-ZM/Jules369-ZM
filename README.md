@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -236,26 +236,25 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   30.07 % 
-Dart                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Markdown                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Text                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Dart                     3 hrs 55 mins       ██████████████░░░░░░░░░░░   54.27 % 
+JavaScript               1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 24 mins       █████████████████████████   99.94 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  7 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ZamBet_Pro               2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.74 % 
-bevura                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-LegacyFullStackCertificat58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-IssueTracker             51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-PersonalLibrary          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+bevura                   4 hrs 24 mins       ███████████████░░░░░░░░░░   60.93 % 
+LegacyFullStackCertificat58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+IssueTracker             51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+PersonalLibrary          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+AmericanBritishTranslator20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 ```
 
 
- Last Updated on 13/03/2026 22:20:41 UTC
+ Last Updated on 13/03/2026 22:49:54 UTC
 <!--END_SECTION:waka-->
 
 </div>
