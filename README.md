@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -236,25 +236,25 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     3 hrs 55 mins       ██████████████░░░░░░░░░░░   54.27 % 
-JavaScript               1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Dart                     4 hrs 59 mins       ███████████████░░░░░░░░░░   59.55 % 
+JavaScript               1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bevura                   4 hrs 24 mins       ███████████████░░░░░░░░░░   60.93 % 
-LegacyFullStackCertificat58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-IssueTracker             51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-PersonalLibrary          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-AmericanBritishTranslator20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+bevura                   5 hrs 29 mins       ████████████████░░░░░░░░░   65.43 % 
+LegacyFullStackCertificat58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+IssueTracker             51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+PersonalLibrary          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+AmericanBritishTranslator20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 
 
- Last Updated on 16/03/2026 22:38:46 UTC
+ Last Updated on 16/03/2026 23:23:56 UTC
 <!--END_SECTION:waka-->
 
 </div>
