@@ -230,8 +230,31 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 17/03/2026 22:57:46 UTC
+```text
+🕑︎ Time Zone: Africa/Lusaka
+
+💬 Programming Languages: 
+Dart                     6 hrs 45 mins       ███████████████░░░░░░░░░░   61.76 % 
+JavaScript               1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Git Config               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 56 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+bevura                   7 hrs 39 mins       ██████████████████░░░░░░░   70.01 % 
+LegacyFullStackCertificat58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+IssueTracker             51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+PersonalLibrary          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+```
+
+
+ Last Updated on 17/03/2026 23:31:02 UTC
 <!--END_SECTION:waka-->
 
 </div>
