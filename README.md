@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C077%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -236,23 +236,23 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     6 hrs 54 mins       ██████████████████░░░░░░░   72.70 % 
-Markdown                 2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Dart                     7 hrs 23 mins       ████████████████░░░░░░░░░   65.87 % 
+Markdown                 3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bevura                   7 hrs 39 mins       ████████████████████░░░░░   80.49 % 
-bet_track_pro            1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Unknown Project          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+bevura                   9 hrs 1 min         ████████████████████░░░░░   80.44 % 
+bet_track_pro            1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Unknown Project          59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 ```
 
 
- Last Updated on 19/03/2026 22:19:46 UTC
+ Last Updated on 19/03/2026 22:53:28 UTC
 <!--END_SECTION:waka-->
 
 </div>
