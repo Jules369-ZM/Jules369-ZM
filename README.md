@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C077%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%2034%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -236,23 +236,24 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     7 hrs 23 mins       ████████████████░░░░░░░░░   65.87 % 
-Markdown                 3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Dart                     7 hrs 8 mins        ████████████████░░░░░░░░░   63.37 % 
+Markdown                 3 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.56 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bevura                   9 hrs 1 min         ████████████████████░░░░░   80.44 % 
-bet_track_pro            1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Unknown Project          59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+bevura                   8 hrs 43 mins       ███████████████████░░░░░░   77.58 % 
+bet_track_pro            1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Unknown Project          1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+my_bug_tracker           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
- Last Updated on 20/03/2026 22:19:48 UTC
+ Last Updated on 20/03/2026 22:53:17 UTC
 <!--END_SECTION:waka-->
 
 </div>
