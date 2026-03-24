@@ -230,8 +230,30 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2035%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 24/03/2026 22:56:05 UTC
+```text
+🕑︎ Time Zone: Africa/Lusaka
+
+💬 Programming Languages: 
+Dart                     9 hrs 33 mins       ████████████████░░░░░░░░░   65.53 % 
+Markdown                 4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.40 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Git Config               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 34 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+bevura                   12 hrs 28 mins      █████████████████████░░░░   85.53 % 
+bet_track_pro            1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Unknown Project          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+my_bug_tracker           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+```
+
+
+ Last Updated on 24/03/2026 23:26:12 UTC
 <!--END_SECTION:waka-->
 
 </div>
