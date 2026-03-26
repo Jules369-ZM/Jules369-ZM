@@ -228,7 +228,7 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2045%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -236,25 +236,25 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     10 hrs 10 mins      ████████████████░░░░░░░░░   65.66 % 
-Markdown                 4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Dart                     9 hrs 44 mins       █████████████████░░░░░░░░   67.07 % 
+Markdown                 3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bevura                   13 hrs 24 mins      ██████████████████████░░░   86.52 % 
-UbuntuQuotesWebApp       1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Unknown Project          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-my_bug_tracker           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-bet_track_pro            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+bevura                   12 hrs 3 mins       █████████████████████░░░░   82.97 % 
+UbuntuQuotesWebApp       1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+my_bug_tracker           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+bet_track_pro            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 
 
- Last Updated on 26/03/2026 22:20:08 UTC
+ Last Updated on 26/03/2026 22:54:13 UTC
 <!--END_SECTION:waka-->
 
 </div>
