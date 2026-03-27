@@ -236,25 +236,24 @@ Focused on creating **responsive, secure, scalable, and user-friendly apps** acr
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     9 hrs 44 mins       █████████████████░░░░░░░░   67.07 % 
-Markdown                 3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Dart                     6 hrs 59 mins       ████████████████░░░░░░░░░   62.51 % 
+Markdown                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bevura                   12 hrs 3 mins       █████████████████████░░░░   82.97 % 
-UbuntuQuotesWebApp       1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-my_bug_tracker           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-bet_track_pro            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+bevura                   9 hrs 7 mins        ████████████████████░░░░░   81.63 % 
+UbuntuQuotesWebApp       1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+bet_track_pro            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
 
- Last Updated on 27/03/2026 22:27:00 UTC
+ Last Updated on 27/03/2026 22:59:49 UTC
 <!--END_SECTION:waka-->
 
 </div>
