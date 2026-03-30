@@ -89,7 +89,7 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 | **Unka Go** | Ride-hailing app for passengers | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.unka) |
 | **Unka Go Driver** | Ride-hailing app for drivers | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.unka.driver) |
 | **Penda** | MSME-focused financial services app | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.msme) |
-| **Nyamula** | Mobile application (Probase) | Flutter | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.nyamula) |
+| **Nyamula** | Mobile application | Flutter | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.nyamula) |
 | **eWorkers** | Multi-platform app for Workers' Compensation Fund (WCFCB) | Flutter | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.workers) |
 | **NRFA POS** | e-toll POS system for National Road Fund Agency | Flutter | — |
 | **ZRL POS** | e-ticketing POS system for Zambia Railways Limited | Flutter | — |
