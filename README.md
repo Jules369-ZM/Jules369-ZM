@@ -175,30 +175,32 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2048%20mins-027DFD?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2024%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Africa/Lusaka
 
-💬 Programming Languages:
-Dart                     6 hrs 59 mins       ████████████████░░░░░░░░░   62.51 %
-Markdown                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 %
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+💬 Programming Languages: 
+Dart                     6 hrs 59 mins       ████████████████░░░░░░░░░   62.51 % 
+Markdown                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
-🔥 Editors:
-VS Code                  11 hrs 11 mins      █████████████████████████   100.00 %
+🔥 Editors: 
+VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects:
-bevura                   9 hrs 7 mins        ████████████████████░░░░░   81.63 %
-UbuntuQuotesWebApp       1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 %
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-bet_track_pro            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+🐱‍💻 Projects: 
+bevura                   9 hrs 7 mins        ████████████████████░░░░░   81.63 % 
+UbuntuQuotesWebApp       1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+bet_track_pro            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
+
+ Last Updated on 30/03/2026 09:52:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
