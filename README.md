@@ -1,277 +1,226 @@
+<div align="center">
+
+# 👋 Hi, I'm Julius Martin Banda
+
+### Software Development Officer | Full-Stack Mobile Developer
+### Flutter • Kotlin • Swift • Jetpack Compose • SwiftUI • Firebase • Next.js
+
+📍 Lusaka, Zambia &nbsp;|&nbsp; 📧 bandahmj@gmail.com &nbsp;|&nbsp; 📱 +260 972 489 279
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juliusbandamartin-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/juliusbandamartin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joat--labs.web.app-027DFD?style=flat&logo=google-chrome)](https://joat-labs.web.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Jules369--ZM-181717?style=flat&logo=github)](https://github.com/Jules369-ZM)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/260972489279)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jules369-ZM&style=flat&color=027DFD)](https://github.com/Jules369-ZM)
+
+</div>
+
 ---
 
-# 👋 Hi, I'm **Julius Martin Banda**
-### **Software Development Officer | Full-Stack Mobile Applications Developer (Android • Flutter • SwiftUI • KMP)**
-📍 Lusaka, Zambia
-📧 **bandahmj@gmail.com**
-📱 **+260 972 489 279**
-
----
-<!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=18F7FF&center=true&vCenter=true&width=900&lines=Julius+Martin+Banda;Full-Stack+Mobile+Applications+Developer;Android+%7C+Flutter+%7C+SwiftUI+%7C+KMP;Cross-Platform+Mobile+Developer;Building+Modern+Apps+with+Precision+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=027DFD&center=true&vCenter=true&width=900&lines=Senior+Software+Development+Officer;Full-Stack+Mobile+Developer;Flutter+%7C+Kotlin+%7C+Swift+%7C+Jetpack+Compose+%7C+SwiftUI;5%2B+Years+Building+Cross-Platform+Mobile+Apps;Lusaka%2C+Zambia+%F0%9F%87%BF%F0%9F%87%B2" />
 </p>
 
 ---
 
-# 🧑‍💻 **Profile Summary**
-Software developer with **4+ years** of experience specializing in **cross-platform mobile applications**.
-Skilled in **Next.js, Dart, Jetpack Compose, SwiftUI**, and modern UI development.
-Focused on creating **responsive, secure, scalable, and user-friendly apps** across Android, iOS, and web.
+## 🧑‍💻 About Me
+
+Senior Software Developer with **5+ years** of experience building cross-platform mobile applications for Android and iOS. Specialized in **Flutter, Kotlin, Swift, Jetpack Compose, and SwiftUI**, with strong expertise in **Firebase, state management (Bloc, Riverpod), and clean architecture**. Passionate about delivering scalable, secure, and user-friendly mobile solutions — from intuitive UI/UX to reliable backend systems.
+
+- 🔭 Currently working at **Probase Group** as a Software Development Officer
+- 🌱 Exploring **Kotlin Multiplatform (KMM)** and **AI-powered mobile apps**
+- 💬 Ask me about **Flutter, Dart, Kotlin, Jetpack Compose, SwiftUI, Firebase**
+- 🤝 Open to **freelance projects** and **collaboration**
+- ⚡ Fun fact: I spend more time debugging than writing code — and I enjoy both
 
 ---
 
-# 📚 **Education**
+## 🛠 Tech Stack
 
-### 🎓 Advanced Diploma in Modern Application Development
-**Alison (Online)** — 11/2024 – 02/2025
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![KMM](https://img.shields.io/badge/KMM-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-### 🎓 Diploma in Computer Science & Mathematics Education
-**Evelyn Hone College, Lusaka** — 01/2018 – 12/2020
+### 🌐 Web Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### ☁️ Backend & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-# 🎖 **Certificates**
-- App Development using Dart
-- Flutter Fundamentals
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| **Bevura** | All-in-one finance app — village banking, savings, loans, bill payments, airtime & money transfers | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.bevura) |
+| **Unka Go** | Ride-hailing app for passengers | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.unka) |
+| **Unka Go Driver** | Ride-hailing app for drivers | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.unka.driver) |
+| **Penda** | MSME-focused financial services app | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.msme) |
+| **Nyamula** | Mobile application (Probase) | Flutter | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.nyamula) |
+| **eWorkers** | Multi-platform app for Workers' Compensation Fund (WCFCB) | Flutter | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.workers) |
+| **NRFA POS** | e-toll POS system for National Road Fund Agency | Flutter | — |
+| **ZRL POS** | e-ticketing POS system for Zambia Railways Limited | Flutter | — |
+| **ChumaSplit** | Full-stack AI-powered expense splitting web app | Next.js 15, Firebase, Genkit AI | — |
+| **UbuntuQuotes** | AI-powered inspirational quotes platform | Next.js, Gemini AI, ZenQuotes | — |
+| **Portfolio & CMS** | Personal portfolio with admin CMS dashboard | Next.js, React, Firebase | [![Live](https://img.shields.io/badge/Live-027DFD?style=flat&logo=google-chrome&logoColor=white)](https://joat-labs.web.app/) |
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Probase Group — Lusaka, Zambia
+
+**Software Development Officer** *(May 2024 – Present)*
+- Lead the design and delivery of cross-platform mobile apps using Flutter, Kotlin, and Swift
+- Architect scalable solutions following Clean Architecture and MVVM patterns
+- Conduct code reviews and mentor junior developers
+- Deploy and maintain apps on the Google Play Store and Apple App Store
+- Collaborate with product, design, and backend teams to ship high-quality features
+
+**Mobile Application Developer** *(March 2021 – May 2024)*
+- Built responsive UIs using Flutter, Jetpack Compose, and SwiftUI following Material Design 3
+- Implemented state management using Bloc, Riverpod, and Provider
+- Integrated Firebase services — auth, Firestore, Cloud Functions, and Storage
+- Worked on transaction workflows and payment processing for POS systems
+- Ensured security compliance and performance optimization across all apps
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Period |
+|---|---|---|
+| Advanced Diploma in Modern Application Development | Alison (Online) | 11/2024 – 02/2025 |
+| Diploma in Computer Science & Mathematics Education | Evelyn Hone College, Lusaka | 2018 – 2020 |
+| Grade 12 School Certificate | Chizongwe Technical School, Chipata | 2012 – 2014 |
+
+---
+
+## 🎖 Certifications
+
+- App Development using Dart Programming Language
+- Flutter Fundamentals — Learn to Build Cross-Platform Apps
 - Introduction to Mobile App Development with Flutter
+- Front End Development Libraries V8
+- Legacy JavaScript Algorithms and Data Structures V7
+- Legacy Responsive Web Design V8
 
 ---
 
-# 🛠 **Core Technical Skills**
+## 📊 GitHub Stats
 
-- Android (Jetpack Compose, XML), Flutter, React Native, SwiftUI
-- Kotlin, Dart, TypeScript, Swift, Java
-- MVVM, Clean Architecture, Repository Pattern, MVI, Very Good CLI
-- ViewModel, LiveData, Flow, Provider, Bloc
-- REST, Retrofit, Ktor, Firebase
-- SQLite, DataStore, Hive, SharedPreferences
-- JUnit, Mockito, Espresso, Compose Test
-- Firebase, Google Cloud
-- React, Next.js, Node.js, TypeScript, Tailwind CSS
+<div align="center">
 
----
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true&theme=radical&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true&hide_border=true&count_private=true" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true&theme=radical&hide_border=true" height="165"/>
+</picture>
 
-## 🛠️ Languages and Tools:
-<p align="left">
-  <!-- Mobile Development -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://swift.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jules369-ZM&theme=radical&hide_border=true" height="165"/>
 
-  <!-- Backend & Databases -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a>
+</div>
 
-  <!-- Cloud & DevOps -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-  </a>
+<div align="center">
 
-  <!-- Web Development -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jules369-ZM&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Jules369-ZM)
 
-  <!-- Other Tools -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
 ---
 
-# 🚀 **Featured Projects**
-
-- **Unka Go – Request a Ride:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.unka)
-- **Penda:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.msme)
-- **Unka Go Driver:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.unka.driver)
-- **Nyamula:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.nyamula)
-- **eWorkers:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.workers)
-- **LCCShimzlaw:** [Play Store](https://play.google.com/store/apps/details?id=com.probase.billboards)
-
----
-
-# 💼 **Professional Experience**
-
-## **Software Development Officer — ProBase Limited**
-📍 Lusaka, Zambia | **03/2021 – Present**
-
-- Built **cross-platform mobile applications** using Flutter
-- Developed **responsive UI** using Material Design principles
-- Implemented **state management** with Bloc, Provider, Riverpod
-- Integrated **Firebase authentication, Firestore, cloud functions**
-- Collaborated with UI/UX and backend teams
-- Ensured **security compliance** in mobile applications
-- Solved complex debugging and deployment issues
-- Contributed to **internal mobile app frameworks** and optimizations
-
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jules369-ZM&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jules369-ZM&theme=radical&no-frame=true&margin-w=12&column=7" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jules369-ZM&show_icons=true"/>
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jules369-ZM&theme=radical" />
-</p>
-
----
-
-# ⏱️ WakaTime Coding Activity
+## ⏱️ WakaTime Coding Activity
 
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2048%20mins-027DFD?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Africa/Lusaka
 
-💬 Programming Languages: 
-Dart                     6 hrs 59 mins       ████████████████░░░░░░░░░   62.51 % 
-Markdown                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+💬 Programming Languages:
+Dart                     6 hrs 59 mins       ████████████████░░░░░░░░░   62.51 %
+Markdown                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 %
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 
-🔥 Editors: 
-VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  11 hrs 11 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-bevura                   9 hrs 7 mins        ████████████████████░░░░░   81.63 % 
-UbuntuQuotesWebApp       1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-bet_track_pro            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+🐱‍💻 Projects:
+bevura                   9 hrs 7 mins        ████████████████████░░░░░   81.63 %
+UbuntuQuotesWebApp       1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+bet_track_pro            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
-
- Last Updated on 30/03/2026 06:25:22 UTC
 <!--END_SECTION:waka-->
 
 </div>
 
 ---
 
-## Links
+## 🤝 Let's Connect
 
-- [Portfolio](https://juliusmartinbanda.web.app)
-- [LinkedIn](https://www.linkedin.com/in/juliusbandamartin/)
-- [GitHub](https://github.com/Jules369-ZM)
-- [WhatsApp](https://wa.me/260972489279)
-- [Email](mailto:bandahmj@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juliusbandamartin/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-027DFD?style=for-the-badge&logo=google-chrome)](https://joat-labs.web.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/260972489279)
+[![Email](https://img.shields.io/badge/Email-Send-EA4335?style=for-the-badge&logo=gmail)](mailto:bandahmj@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01dd7d3167ac16fc85)
+
+</div>
 
 ---
 
-<p align="center"><i>🔥 Built with passion. Crafted with code. Powered by caffeine.</i></p>
-
-### ✨ *Thank you for visiting my profile!*      <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jules369-ZM&style=for-the-badge&color=blue" />
-</p>
+<div align="center">
+  <i>🔥 Built with passion. Crafted with code. Powered by caffeine.</i>
+  <br><br>
+  <i>✨ Thank you for visiting my profile!</i>
+</div>
