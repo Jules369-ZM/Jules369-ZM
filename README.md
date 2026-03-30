@@ -18,14 +18,14 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=027DFD&center=true&vCenter=true&width=900&lines=Senior+Software+Development+Officer;Full-Stack+Mobile+Developer;Flutter+%7C+Kotlin+%7C+Swift+%7C+Jetpack+Compose+%7C+SwiftUI;5%2B+Years+Building+Cross-Platform+Mobile+Apps;Lusaka%2C+Zambia+%F0%9F%87%BF%F0%9F%87%B2" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=027DFD&center=true&vCenter=true&width=900&lines=Software+Development+Officer;Full-Stack+Mobile+Developer;Flutter+%7C+Kotlin+%7C+Swift+%7C+Jetpack+Compose+%7C+SwiftUI;5%2B+Years+Building+Cross-Platform+Mobile+Apps;Lusaka%2C+Zambia+%F0%9F%87%BF%F0%9F%87%B2" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Senior Software Developer with **5+ years** of experience building cross-platform mobile applications for Android and iOS. Specialized in **Flutter, Kotlin, Swift, Jetpack Compose, and SwiftUI**, with strong expertise in **Firebase, state management (Bloc, Riverpod), and clean architecture**. Passionate about delivering scalable, secure, and user-friendly mobile solutions — from intuitive UI/UX to reliable backend systems.
+Software Developer with **5+ years** of experience building cross-platform mobile applications for Android and iOS. Specialized in **Flutter, Kotlin, Swift, Jetpack Compose, and SwiftUI**, with strong expertise in **Firebase, state management (Bloc, Riverpod), and clean architecture**. Passionate about delivering scalable, secure, and user-friendly mobile solutions — from intuitive UI/UX to reliable backend systems.
 
 - 🔭 Currently working at **Probase Group** as a Software Development Officer
 - 🌱 Exploring **Kotlin Multiplatform (KMM)** and **AI-powered mobile apps**
@@ -93,8 +93,8 @@ Senior Software Developer with **5+ years** of experience building cross-platfor
 | **eWorkers** | Multi-platform app for Workers' Compensation Fund (WCFCB) | Flutter | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.workers) |
 | **NRFA POS** | e-toll POS system for National Road Fund Agency | Flutter | — |
 | **ZRL POS** | e-ticketing POS system for Zambia Railways Limited | Flutter | — |
-| **ChumaSplit** | Full-stack AI-powered expense splitting web app | Next.js 15, Firebase, Genkit AI | — |
-| **UbuntuQuotes** | AI-powered inspirational quotes platform | Next.js, Gemini AI, ZenQuotes | — |
+| **ChumaSplit** | Full-stack AI-powered expense splitting web app | Next.js 15, Firebase, Genkit AI | [![Live](https://img.shields.io/badge/Live-027DFD?style=flat&logo=google-chrome&logoColor=white)](https://chuma-split.web.app/) |
+| **UbuntuQuotes** | AI-powered inspirational quotes platform | Next.js, Gemini AI, ZenQuotes | [![Live](https://img.shields.io/badge/Live-027DFD?style=flat&logo=google-chrome&logoColor=white)](https://ubuntu-quotes.web.app/) |
 | **Portfolio & CMS** | Personal portfolio with admin CMS dashboard | Next.js, React, Firebase | [![Live](https://img.shields.io/badge/Live-027DFD?style=flat&logo=google-chrome&logoColor=white)](https://joat-labs.web.app/) |
 
 ---
@@ -175,32 +175,30 @@ Senior Software Developer with **5+ years** of experience building cross-platfor
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2048%20mins-027DFD?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Africa/Lusaka
 
-💬 Programming Languages: 
-Dart                     6 hrs 59 mins       ████████████████░░░░░░░░░   62.51 % 
-Markdown                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+💬 Programming Languages:
+Dart                     6 hrs 59 mins       ████████████████░░░░░░░░░   62.51 %
+Markdown                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 %
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 
-🔥 Editors: 
-VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  11 hrs 11 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-bevura                   9 hrs 7 mins        ████████████████████░░░░░   81.63 % 
-UbuntuQuotesWebApp       1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-bet_track_pro            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+🐱‍💻 Projects:
+bevura                   9 hrs 7 mins        ████████████████████░░░░░   81.63 %
+UbuntuQuotesWebApp       1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+bet_track_pro            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
-
- Last Updated on 30/03/2026 08:07:03 UTC
 <!--END_SECTION:waka-->
 
 </div>
