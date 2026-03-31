@@ -175,32 +175,10 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2034%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lusaka
-
-💬 Programming Languages: 
-Dart                     2 hrs               ██████████░░░░░░░░░░░░░░░   39.87 % 
-Markdown                 1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   35.55 % 
-JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 3 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-bevura                   2 hrs 52 mins       ██████████████░░░░░░░░░░░   56.89 % 
-UbuntuQuotesWebApp       1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.22 % 
-Unknown Project          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-bet_track_pro            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C097%20hrs%208%20mins-blue?style=flat)
 
 
- Last Updated on 31/03/2026 22:26:31 UTC
+ Last Updated on 31/03/2026 22:56:43 UTC
 <!--END_SECTION:waka-->
 
 </div>
