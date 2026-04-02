@@ -175,7 +175,7 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,26 +183,25 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     3 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.79 % 
-Markdown                 1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Groovy                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Dart                     3 hrs 49 mins       ██████████████░░░░░░░░░░░   55.02 % 
+Markdown                 1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+TypeScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Groovy                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 35 mins       █████████████████████████   99.92 % 
+VS Code                  6 hrs 56 mins       █████████████████████████   99.92 % 
 Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-bevura                   5 hrs 29 mins       ██████████████████░░░░░░░   72.29 % 
-bevura_functions         1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-UbuntuQuotesWebApp       33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-bet_track_pro            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+bevura                   5 hrs 33 mins       ████████████████████░░░░░   80.09 % 
+bevura_functions         1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+bet_track_pro            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
- Last Updated on 02/04/2026 22:30:13 UTC
+ Last Updated on 02/04/2026 23:01:16 UTC
 <!--END_SECTION:waka-->
 
 </div>
