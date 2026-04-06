@@ -183,25 +183,25 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     3 hrs 48 mins       ██████████████░░░░░░░░░░░   54.99 % 
-Markdown                 1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-TypeScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Groovy                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Dart                     3 hrs 31 mins       ██████████████░░░░░░░░░░░   57.94 % 
+TypeScript               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Groovy                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 55 mins       █████████████████████████   99.92 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+VS Code                  6 hrs 5 mins        █████████████████████████   99.91 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-bevura                   5 hrs 33 mins       ████████████████████░░░░░   80.08 % 
-bevura_functions         1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-bet_track_pro            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+bevura                   4 hrs 52 mins       ████████████████████░░░░░   79.95 % 
+bevura_functions         1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+bet_track_pro            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 06/04/2026 22:27:18 UTC
+ Last Updated on 06/04/2026 23:02:46 UTC
 <!--END_SECTION:waka-->
 
 </div>
