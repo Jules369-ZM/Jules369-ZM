@@ -175,7 +175,7 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,25 +183,25 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-TypeScript               4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Go                       4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Other                    3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Python                   3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Text                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Dart                     5 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+TypeScript               5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Other                    5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Markdown                 4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Go                       4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                18 hrs 7 mins       ███████████████████░░░░░░   74.33 % 
-bevura                   3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-personal_site            2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-tikongole                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-bevura_functions         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+ZamBetPro                20 hrs 56 mins      ███████████████░░░░░░░░░░   59.88 % 
+tikongole                7 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+bevura                   3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+personal_site            2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+bevura_functions         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 
- Last Updated on 10/04/2026 22:03:50 UTC
+ Last Updated on 10/04/2026 23:01:37 UTC
 <!--END_SECTION:waka-->
 
 </div>
