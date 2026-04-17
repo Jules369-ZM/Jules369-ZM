@@ -183,26 +183,26 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     16 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   32.88 % 
-Markdown                 10 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Other                    7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-TypeScript               3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Python                   3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Dart                     17 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   36.59 % 
+Markdown                 9 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Other                    6 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+TypeScript               3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Python                   2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 12 mins      █████████████████████░░░░   82.61 % 
-Unknown Editor           8 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+VS Code                  39 hrs 53 mins      ████████████████████░░░░░   81.38 % 
+Unknown Editor           9 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
 
 🐱‍💻 Projects: 
-tikongole                23 hrs 41 mins      ████████████░░░░░░░░░░░░░   47.48 % 
-ZamBetPro                18 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.66 % 
-bevura                   6 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Unknown Project          58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+tikongole                25 hrs 30 mins      █████████████░░░░░░░░░░░░   52.02 % 
+ZamBetPro                15 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   31.78 % 
+bevura                   6 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Unknown Project          1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 17/04/2026 22:30:01 UTC
+ Last Updated on 17/04/2026 23:08:45 UTC
 <!--END_SECTION:waka-->
 
 </div>
