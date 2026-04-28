@@ -183,26 +183,26 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     16 hrs 30 mins      ███████████████░░░░░░░░░░   58.53 % 
-Markdown                 6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-YAML                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-TypeScript               33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Dart                     10 hrs 49 mins      ██████████████░░░░░░░░░░░   56.56 % 
+Markdown                 4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+TypeScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 40 mins      █████████████████████████   98.14 % 
-Unknown Editor           31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+VS Code                  18 hrs 39 mins      ████████████████████████░   97.55 % 
+Unknown Editor           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🐱‍💻 Projects: 
-tikongole                14 hrs 21 mins      █████████████░░░░░░░░░░░░   50.90 % 
-bevura                   10 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   37.45 % 
-my_bug_tracker           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Unknown Project          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-ZamBetPro                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+bevura                   8 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.29 % 
+tikongole                8 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.14 % 
+my_bug_tracker           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Unknown Project          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+ZamBetPro                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 
 
- Last Updated on 28/04/2026 22:47:42 UTC
+ Last Updated on 28/04/2026 23:45:55 UTC
 <!--END_SECTION:waka-->
 
 </div>
