@@ -183,26 +183,25 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     10 hrs 6 mins       █████████████░░░░░░░░░░░░   53.39 % 
-Markdown                 3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Other                    2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Dart                     6 hrs 43 mins       █████████████░░░░░░░░░░░░   50.59 % 
+Markdown                 2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+Other                    1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 29 mins      ████████████████████████░   97.70 % 
-Unknown Editor           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+VS Code                  13 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bevura                   10 hrs 56 mins      ██████████████░░░░░░░░░░░   57.84 % 
-tikongole                4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Unknown Project          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-bevura_functions         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-ZamBetPro                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+bevura                   9 hrs 18 mins       ██████████████████░░░░░░░   70.03 % 
+tikongole                1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+bevura_functions         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Unknown Project          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+ZamBetPro                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 ```
 
 
- Last Updated on 30/04/2026 22:43:20 UTC
+ Last Updated on 30/04/2026 23:43:27 UTC
 <!--END_SECTION:waka-->
 
 </div>
