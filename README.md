@@ -175,7 +175,7 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C249%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,25 +183,24 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     5 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-Go                       4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Markdown                 2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Other                    2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-TypeScript               2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Dart                     7 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.06 % 
+Go                       4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Markdown                 4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Other                    2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+TypeScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 🔥 Editors: 
-VS Code                  19 hrs              ████████████████████████░   96.72 % 
-Unknown Editor           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+VS Code                  21 hrs 38 mins      ████████████████████████░   97.11 % 
+Unknown Editor           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                9 hrs 54 mins       █████████████░░░░░░░░░░░░   50.42 % 
-bevura                   7 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
-Unknown Project          1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-bevura_functions         25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+ZamBetPro                11 hrs 11 mins      █████████████░░░░░░░░░░░░   50.19 % 
+bevura                   9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.24 % 
+Unknown Project          1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 
 
- Last Updated on 06/05/2026 22:41:00 UTC
+ Last Updated on 06/05/2026 23:41:42 UTC
 <!--END_SECTION:waka-->
 
 </div>
