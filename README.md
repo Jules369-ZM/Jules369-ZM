@@ -183,24 +183,24 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     12 hrs 1 min        ███████████░░░░░░░░░░░░░░   45.34 % 
-Markdown                 4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Go                       4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Other                    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-TypeScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Dart                     12 hrs 1 min        █████████████░░░░░░░░░░░░   50.28 % 
+Markdown                 4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Go                       3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Other                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+TypeScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 28 mins      █████████████████████████   99.83 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  23 hrs 52 mins      █████████████████████████   99.81 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-bevura                   14 hrs 50 mins      ██████████████░░░░░░░░░░░   55.95 % 
-ZamBetPro                9 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.25 % 
-Unknown Project          1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+bevura                   14 hrs 50 mins      ████████████████░░░░░░░░░   62.05 % 
+ZamBetPro                7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Unknown Project          1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 ```
 
 
- Last Updated on 10/05/2026 22:37:48 UTC
+ Last Updated on 10/05/2026 23:42:19 UTC
 <!--END_SECTION:waka-->
 
 </div>
