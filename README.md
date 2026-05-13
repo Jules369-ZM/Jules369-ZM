@@ -177,30 +177,8 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C277%20hrs%2059%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Africa/Lusaka
-
-💬 Programming Languages: 
-Dart                     11 hrs 43 mins      █████████████░░░░░░░░░░░░   51.81 % 
-Markdown                 8 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   37.27 % 
-Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Docker                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-
-🔥 Editors: 
-VS Code                  22 hrs 9 mins       ████████████████████████░   97.89 % 
-Unknown Editor           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-
-🐱‍💻 Projects: 
-bevura                   14 hrs 15 mins      ████████████████░░░░░░░░░   62.95 % 
-ZamBetPro                5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Unknown Project          2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-```
-
-
- Last Updated on 13/05/2026 22:58:01 UTC
+ Last Updated on 13/05/2026 23:57:08 UTC
 <!--END_SECTION:waka-->
 
 </div>
