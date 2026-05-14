@@ -175,8 +175,34 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C289%20hrs%2036%20mins-blue?style=flat)
 
- Last Updated on 14/05/2026 22:02:52 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lusaka
+
+💬 Programming Languages: 
+Dart                     18 hrs 46 mins      █████████████░░░░░░░░░░░░   51.94 % 
+Markdown                 9 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Other                    2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Go                       1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Bash                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+
+🔥 Editors: 
+VS Code                  34 hrs 54 mins      ████████████████████████░   96.58 % 
+Unknown Editor           1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Android Studio           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+
+🐱‍💻 Projects: 
+ZamBetPro                25 hrs 43 mins      ██████████████████░░░░░░░   71.19 % 
+bevura                   7 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Unknown Project          2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+bet_track_pro            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+```
+
+
+ Last Updated on 14/05/2026 23:27:02 UTC
 <!--END_SECTION:waka-->
 
 </div>
