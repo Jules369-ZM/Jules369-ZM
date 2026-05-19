@@ -177,8 +177,33 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C319%20hrs%2025%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 18/05/2026 23:57:37 UTC
+```text
+🕑︎ Time Zone: Africa/Lusaka
+
+💬 Programming Languages: 
+Dart                     17 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   33.45 % 
+Markdown                 14 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+TypeScript               6 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Python                   4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Go                       3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+
+🔥 Editors: 
+VS Code                  52 hrs 25 mins      █████████████████████████   98.02 % 
+Claude Code              56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Android Studio           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
+🐱‍💻 Projects: 
+ZamBetPro                43 hrs 30 mins      ████████████████████░░░░░   81.36 % 
+Unknown Project          4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+bevura_site              4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+bevura                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+bevura_admin             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+```
+
+
+ Last Updated on 19/05/2026 03:23:44 UTC
 <!--END_SECTION:waka-->
 
 </div>
