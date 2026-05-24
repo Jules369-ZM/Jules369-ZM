@@ -183,26 +183,26 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Markdown                 15 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Go                       8 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-TypeScript               7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Dart                     7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Python                   5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Markdown                 14 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   31.36 % 
+Go                       8 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+TypeScript               7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Dart                     7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Python                   3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 
 🔥 Editors: 
-VS Code                  49 hrs 44 mins      █████████████████████████   99.47 % 
-Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+VS Code                  45 hrs 58 mins      █████████████████████████   99.43 % 
+Claude Code              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                35 hrs 8 mins       ██████████████████░░░░░░░   70.27 % 
-bevura_site              10 hrs 57 mins      █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Unknown Project          3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-bevura                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+ZamBetPro                31 hrs 27 mins      █████████████████░░░░░░░░   68.05 % 
+bevura_site              10 hrs 57 mins      ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Unknown Project          3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+bevura                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 bevura_admin             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 24/05/2026 22:30:07 UTC
+ Last Updated on 24/05/2026 23:34:03 UTC
 <!--END_SECTION:waka-->
 
 </div>
