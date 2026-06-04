@@ -175,35 +175,10 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2011%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lusaka
-
-💬 Programming Languages: 
-Markdown                 28 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   39.15 % 
-Go                       24 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   34.75 % 
-TypeScript               7 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Python                   3 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Bash                     3 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-
-🔥 Editors: 
-VS Code                  71 hrs 24 mins      █████████████████████████   99.57 % 
-Claude Code              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Unknown Editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-🐱‍💻 Projects: 
-ZamBetPro                69 hrs 15 mins      ████████████████████████░   96.59 % 
-bevura_site              1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-bevura                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-sportybet_capture        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-dev-playbook             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2033%20mins-blue?style=flat)
 
 
- Last Updated on 04/06/2026 22:04:57 UTC
+ Last Updated on 04/06/2026 23:43:12 UTC
 <!--END_SECTION:waka-->
 
 </div>
