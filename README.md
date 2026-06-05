@@ -177,8 +177,32 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2033%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/06/2026 23:43:12 UTC
+```text
+🕑︎ Time Zone: Africa/Lusaka
+
+💬 Programming Languages: 
+Markdown                 26 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.61 % 
+Go                       23 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   32.33 % 
+TypeScript               7 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Bash                     3 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Dart                     2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+
+🔥 Editors: 
+VS Code                  71 hrs 24 mins      █████████████████████████   99.55 % 
+Claude Code              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+
+🐱‍💻 Projects: 
+ZamBetPro                67 hrs 45 mins      ████████████████████████░   94.46 % 
+bevura_site              3 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+bevura                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+dev-playbook             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+memory                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
+
+
+ Last Updated on 05/06/2026 02:37:18 UTC
 <!--END_SECTION:waka-->
 
 </div>
