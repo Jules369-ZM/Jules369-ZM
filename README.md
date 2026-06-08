@@ -175,33 +175,35 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C482%20hrs%2049%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Markdown                 25 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.56 % 
-Go                       20 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-TypeScript               9 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Bash                     4 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Dart                     2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown                 26 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   38.05 % 
+Go                       19 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+TypeScript               8 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Bash                     5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Dart                     2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-VS Code                  69 hrs 31 mins      █████████████████████████   99.37 % 
+VS Code                  68 hrs 39 mins      █████████████████████████   99.01 % 
+Claude Code              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 3.1                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Claude Code              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                65 hrs 58 mins      ████████████████████████░   94.29 % 
-bevura_site              3 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+ZamBetPro                65 hrs 20 mins      ████████████████████████░   94.24 % 
+bevura_site              3 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 bevura                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 memory                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 dev-playbook             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 
- Last Updated on 07/06/2026 22:55:42 UTC
+ Last Updated on 08/06/2026 00:00:40 UTC
 <!--END_SECTION:waka-->
 
 </div>
