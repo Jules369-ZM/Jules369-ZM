@@ -175,7 +175,7 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C571%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C584%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,26 +183,26 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Go                       25 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
-Markdown                 22 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-TypeScript               9 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Python                   6 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Dart                     3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Go                       25 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Markdown                 21 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+TypeScript               9 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Python                   8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Text                     4 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editors: 
-VS Code                  77 hrs 21 mins      █████████████████████████   99.97 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+VS Code                  76 hrs 43 mins      █████████████████████████   99.95 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                71 hrs 1 min        ███████████████████████░░   91.79 % 
-bevura_site              4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-bevura                   42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+ZamBetPro                72 hrs 56 mins      ████████████████████████░   95.02 % 
+bevura_site              3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 tmp                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-personal_site            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+personal_site            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+memory                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 
- Last Updated on 16/06/2026 22:26:35 UTC
+ Last Updated on 16/06/2026 23:54:06 UTC
 <!--END_SECTION:waka-->
 
 </div>
