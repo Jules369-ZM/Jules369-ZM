@@ -175,7 +175,7 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C594%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C584%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -202,7 +202,7 @@ memory                   8 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/06/2026 21:26:18 UTC
+ Last Updated on 17/06/2026 22:55:45 UTC
 <!--END_SECTION:waka-->
 
 </div>
