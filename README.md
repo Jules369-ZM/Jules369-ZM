@@ -175,7 +175,7 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C594%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C603%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,25 +183,26 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Go                       24 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   33.18 % 
-Markdown                 19 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-TypeScript               10 hrs 23 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Python                   7 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Text                     5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Go                       22 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   31.37 % 
+Markdown                 17 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+TypeScript               11 hrs 14 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Python                   6 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Text                     4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-VS Code                  74 hrs 34 mins      █████████████████████████   99.83 % 
+VS Code                  72 hrs 21 mins      █████████████████████████   99.83 % 
 Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                74 hrs 3 mins       █████████████████████████   99.12 % 
-tmp                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-personal_site            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+ZamBetPro                68 hrs 35 mins      ████████████████████████░   94.64 % 
+bevura                   3 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+tmp                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+personal_site            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 memory                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
- Last Updated on 18/06/2026 23:14:49 UTC
+ Last Updated on 19/06/2026 02:12:57 UTC
 <!--END_SECTION:waka-->
 
 </div>
