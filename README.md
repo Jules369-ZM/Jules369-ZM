@@ -183,26 +183,26 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Markdown                 14 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Go                       11 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Dart                     7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Text                     6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Bash                     4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Markdown                 14 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+Go                       11 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Dart                     7 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Text                     6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Bash                     4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 6 mins       ████████████████████░░░░░   80.01 % 
-VS Code                  10 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Claude Code              40 hrs 9 mins       ████████████████████░░░░░   79.70 % 
+VS Code                  10 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                37 hrs 3 mins       ██████████████████░░░░░░░   72.12 % 
-bevura                   8 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-ai-playbook              3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-ai-rules                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-dev-playbook             58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+ZamBetPro                36 hrs 4 mins       ██████████████████░░░░░░░   71.58 % 
+bevura                   8 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+ai-playbook              3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+ai-rules                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+dev-playbook             58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
- Last Updated on 04/07/2026 22:25:43 UTC
+ Last Updated on 04/07/2026 23:28:44 UTC
 <!--END_SECTION:waka-->
 
 </div>
