@@ -175,7 +175,7 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,26 +183,26 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Markdown                 9 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Go                       8 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Dart                     6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Python                   5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Text                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Markdown                 10 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Go                       8 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Dart                     6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Python                   5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Other                    2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 12 mins      ███████████████████████░░   90.12 % 
-VS Code                  3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Claude Code              35 hrs 42 mins      ██████████████████████░░░   89.57 % 
+VS Code                  4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                23 hrs 43 mins      █████████████████░░░░░░░░   66.38 % 
-bevura                   7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-ai-playbook              2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-dev-playbook             1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-betway_capture           36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+ZamBetPro                25 hrs 8 mins       ████████████████░░░░░░░░░   63.06 % 
+bevura                   8 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+ai-playbook              3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+dev-playbook             1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+betway_capture           36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 
- Last Updated on 19/07/2026 22:14:03 UTC
+ Last Updated on 19/07/2026 23:24:58 UTC
 <!--END_SECTION:waka-->
 
 </div>
