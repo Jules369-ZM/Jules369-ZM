@@ -175,7 +175,9 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C785%20hrs%2056%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-672%20hrs%2041%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -201,8 +203,31 @@ ai-playbook              1 hr 52 mins        █░░░░░░░░░░�
 memory                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 12:12:15 UTC
+```text
+⏱ AI Coding Time: 43 hrs 18 mins (97.84%)
+
+✍️ 19,911 lines written by AI, 236 lines written by hand (98.83% AI-written)
+
+🔤 1,555,884,123 Input Tokens, 3,127,106 Output Tokens
+
+💵 $7853.58 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 266 AI Prompts
+
+Opus                     21,064 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.83% of written lines came from AI
+📚 Verbose Prompter — average 1,621 characters per prompt
+🔁 Iterative Prompter — average 27 prompts per session
+🚀 High AI Trust — 1.46% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 15:20:36 UTC
 <!--END_SECTION:waka-->
 
 </div>
