@@ -185,48 +185,48 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Markdown                 7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
-Dart                     4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Other                    2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Go                       2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Bash                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Markdown                 7 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Dart                     4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Other                    2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Go                       2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Bash                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 21 mins      ██████████████████████░░░   89.42 % 
-VS Code                  2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Claude Code              20 hrs 24 mins      ██████████████████████░░░   88.98 % 
+VS Code                  2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                11 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.52 % 
-bevura                   6 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-ai-playbook              1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-ai-rules                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-dev-playbook             45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+ZamBetPro                11 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.78 % 
+bevura                   6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+ai-playbook              1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+ai-rules                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+dev-playbook             49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 12 mins (97.56%)
+⏱ AI Coding Time: 22 hrs 18 mins (97.24%)
 
-✍️ 18,928 lines written by AI, 178 lines written by hand (99.07% AI-written)
+✍️ 19,331 lines written by AI, 178 lines written by hand (99.09% AI-written)
 
-🔤 1,030,007,142 Input Tokens, 1,504,290 Output Tokens
+🔤 1,050,713,443 Input Tokens, 1,523,985 Output Tokens
 
-💵 $5184.30 Estimated AI Cost This Week
+💵 $5291.67 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 137 AI Prompts
+🧠 10 AI Sessions, 143 AI Prompts
 
-Opus                     20,314 lines        █████████████████████████   100.00 % 
+Opus                     20,717 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.07% of written lines came from AI
-📄 Detailed Prompter — average 878 characters per prompt
+🤖 AI-Driven — 99.09% of written lines came from AI
+📄 Detailed Prompter — average 847 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 1.75% of changed lines were hand-edited
+🚀 High AI Trust — 1.72% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 22:24:28 UTC
+ Last Updated on 02/08/2026 23:26:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
