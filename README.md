@@ -179,8 +179,54 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-733%20hrs%2019%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 14/08/2026 22:46:26 UTC
+```text
+🕑︎ Time Zone: Africa/Lusaka
+
+💬 Programming Languages: 
+Go                       5 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Markdown                 4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+Dart                     2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+TypeScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Text                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+
+🔥 Editors: 
+Claude Code              16 hrs 8 mins       █████████████████████░░░░   84.27 % 
+VS Code                  3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+
+🐱‍💻 Projects: 
+ZamBetPro                14 hrs 40 mins      ███████████████████░░░░░░   76.55 % 
+bevura                   2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+ai-playbook              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+dev-playbook             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+ai-rules                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 18 hrs 6 mins (94.53%)
+
+✍️ 8,544 lines written by AI, 34 lines written by hand (99.6% AI-written)
+
+🔤 160,749,967 Input Tokens, 993,805 Output Tokens
+
+💵 $1110.21 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 84 AI Prompts
+
+Opus                     9,240 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.6% of written lines came from AI
+📚 Verbose Prompter — average 4,980 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 3.3% of changed lines were hand-edited
+```
+
+
+ Last Updated on 14/08/2026 23:13:06 UTC
 <!--END_SECTION:waka-->
 
 </div>
