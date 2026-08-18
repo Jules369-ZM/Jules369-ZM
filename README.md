@@ -175,9 +175,9 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C850%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C850%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-742%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-742%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -185,49 +185,49 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Go                       8 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.10 % 
-Markdown                 6 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-Dart                     2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Text                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Go                       6 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.34 % 
+Markdown                 3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Text                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 44 mins      ██████████████████████░░░   87.12 % 
-VS Code                  3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Claude Code              16 hrs 12 mins      ██████████████████████░░░   87.32 % 
+VS Code                  2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                18 hrs 59 mins      ███████████████████░░░░░░   76.06 % 
-bevura                   3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-ai-playbook              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-dev-playbook             40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-ai-rules                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+ZamBetPro                14 hrs 55 mins      ████████████████████░░░░░   80.44 % 
+bevura                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+ai-playbook              44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+ai-rules                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+dev-playbook             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 44 mins (95.11%)
+⏱ AI Coding Time: 17 hrs 31 mins (94.38%)
 
-✍️ 10,560 lines written by AI, 39 lines written by hand (99.63% AI-written)
+✍️ 6,422 lines written by AI, 36 lines written by hand (99.44% AI-written)
 
-🔤 21,953,008 Input Tokens, 1,423,902 Output Tokens
+🔤 18,042,369 Input Tokens, 1,045,529 Output Tokens
 
-💵 $674.95 Estimated AI Cost This Week
+💵 $543.37 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 108 AI Prompts
+🧠 7 AI Sessions, 89 AI Prompts
 
-Opus                     11,292 lines        █████████████████████████   100.00 % 
+Opus                     6,662 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📚 Verbose Prompter — average 4,315 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 2.76% of changed lines were hand-edited
+🤖 AI-Driven — 99.44% of written lines came from AI
+📚 Verbose Prompter — average 4,841 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 22:13:15 UTC
+ Last Updated on 18/08/2026 22:47:17 UTC
 <!--END_SECTION:waka-->
 
 </div>
