@@ -179,8 +179,55 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2010%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 21/08/2026 22:47:34 UTC
+```text
+🕑︎ Time Zone: Africa/Lusaka
+
+💬 Programming Languages: 
+Go                       10 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Markdown                 8 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+TypeScript               3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Bash                     3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Other                    3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+
+🔥 Editors: 
+Claude Code              32 hrs 49 mins      ████████████████████████░   94.35 % 
+VS Code                  1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+
+🐱‍💻 Projects: 
+ZamBetPro                27 hrs 14 mins      ████████████████████░░░░░   78.33 % 
+ai-rules                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+weekly_project_report    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+bevura_site              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+ai-playbook              1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 34 hrs 5 mins (98.03%)
+
+✍️ 16,621 lines written by AI, 80 lines written by hand (99.52% AI-written)
+
+🔤 24,761,052 Input Tokens, 2,363,518 Output Tokens
+
+💵 $1023.90 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 138 AI Prompts
+
+Opus                     17,040 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.52% of written lines came from AI
+📄 Detailed Prompter — average 1,213 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.61% of changed lines were hand-edited
+```
+
+
+ Last Updated on 21/08/2026 23:15:08 UTC
 <!--END_SECTION:waka-->
 
 </div>
