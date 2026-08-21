@@ -175,59 +175,12 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C866%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-759%20hrs%2036%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lusaka
-
-💬 Programming Languages: 
-Go                       9 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Markdown                 7 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-Other                    3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Bash                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-TypeScript               2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-
-🔥 Editors: 
-Claude Code              28 hrs 27 mins      ███████████████████████░░   92.83 % 
-VS Code                  2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-
-🐱‍💻 Projects: 
-ZamBetPro                24 hrs 27 mins      ████████████████████░░░░░   79.77 % 
-ai-playbook              1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-bevura_site              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-bevura                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-ai-rules                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 29 hrs 51 mins (97.37%)
-
-✍️ 12,367 lines written by AI, 83 lines written by hand (99.33% AI-written)
-
-🔤 23,943,247 Input Tokens, 1,899,977 Output Tokens
-
-💵 $892.55 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 121 AI Prompts
-
-Opus                     12,723 lines        █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.33% of written lines came from AI
-📄 Detailed Prompter — average 1,033 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.84% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2010%20mins-blue?style=flat)
 
 
- Last Updated on 21/08/2026 22:14:24 UTC
+ Last Updated on 21/08/2026 22:47:34 UTC
 <!--END_SECTION:waka-->
 
 </div>
