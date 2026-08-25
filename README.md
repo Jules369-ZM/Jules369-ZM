@@ -175,9 +175,9 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C880%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C884%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-778%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-781%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -185,49 +185,49 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Go                       9 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-Markdown                 8 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Other                    6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Bash                     3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-TypeScript               3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Go                       9 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Markdown                 8 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Other                    6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Bash                     3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+TypeScript               3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 🔥 Editors: 
-Claude Code              35 hrs 39 mins      ████████████████████████░   94.74 % 
-VS Code                  1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Claude Code              37 hrs 34 mins      ███████████████████████░░   91.92 % 
+VS Code                  3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                28 hrs 29 mins      ███████████████████░░░░░░   75.72 % 
-bevura                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-ai-playbook              1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-ai-rules                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-bevura_site              1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+ZamBetPro                28 hrs 55 mins      ██████████████████░░░░░░░   70.78 % 
+bevura                   4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+bevura_site              1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+ai-playbook              1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+ai-rules                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 54 mins (98.08%)
+⏱ AI Coding Time: 39 hrs 34 mins (96.83%)
 
-✍️ 17,398 lines written by AI, 72 lines written by hand (99.59% AI-written)
+✍️ 17,575 lines written by AI, 72 lines written by hand (99.59% AI-written)
 
-🔤 25,150,954 Input Tokens, 2,385,143 Output Tokens
+🔤 29,104,215 Input Tokens, 2,517,538 Output Tokens
 
-💵 $977.84 Estimated AI Cost This Week
+💵 $1051.26 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 158 AI Prompts
+🧠 17 AI Sessions, 184 AI Prompts
 
-Opus                     17,820 lines        █████████████████████████   100.00 % 
+Opus                     18,245 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.59% of written lines came from AI
-📄 Detailed Prompter — average 1,002 characters per prompt
+📄 Detailed Prompter — average 1,469 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.54% of changed lines were hand-edited
+🚀 High AI Trust — 0.56% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 22:17:04 UTC
+ Last Updated on 25/08/2026 22:51:45 UTC
 <!--END_SECTION:waka-->
 
 </div>
