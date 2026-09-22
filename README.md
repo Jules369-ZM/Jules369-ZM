@@ -175,9 +175,9 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C056%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C062%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-973%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-978%20hrs%2043%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -185,50 +185,50 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-TypeScript               13 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Markdown                 13 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-Go                       8 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Dart                     4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Text                     4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Markdown                 14 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+TypeScript               11 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Go                       7 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Dart                     4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Bash                     3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-Claude Code              46 hrs 52 mins      ██████████████████████░░░   88.54 % 
-VS Code                  6 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Claude Code              43 hrs 56 mins      ██████████████████████░░░   89.47 % 
+VS Code                  5 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                37 hrs 44 mins      ██████████████████░░░░░░░   71.29 % 
-bevura                   6 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-dev-playbook             3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-ai-playbook              3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-ai-rules                 53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+ZamBetPro                31 hrs 33 mins      ████████████████░░░░░░░░░   64.23 % 
+bevura                   6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+dev-playbook             3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+ai-playbook              3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+ai-rules                 1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 hrs 24 mins (93.33%)
+⏱ AI Coding Time: 46 hrs 6 mins (93.87%)
 
-✍️ 32,674 lines written by AI, 190 lines written by hand (99.42% AI-written)
+✍️ 35,704 lines written by AI, 160 lines written by hand (99.55% AI-written)
 
-🔤 43,412,647 Input Tokens, 3,898,834 Output Tokens
+🔤 38,983,889 Input Tokens, 3,509,610 Output Tokens
 
-💵 $1438.03 Estimated AI Cost This Week
+💵 $1260.08 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 308 AI Prompts
+🧠 17 AI Sessions, 283 AI Prompts
 
-Opus                     26,550 lines        ███████████████████░░░░░░   76.21 % 
-Fable                    8,239 lines         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Claude-Code              51 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Opus                     29,353 lines        ███████████████████░░░░░░   77.98 % 
+Fable                    8,239 lines         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Claude-Code              51 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.42% of written lines came from AI
-📚 Verbose Prompter — average 2,319 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 12.69% of changed lines were hand-edited
+🤖 AI-Driven — 99.55% of written lines came from AI
+📚 Verbose Prompter — average 2,254 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 6.55% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 00:12:01 UTC
+ Last Updated on 22/09/2026 05:12:15 UTC
 <!--END_SECTION:waka-->
 
 </div>
