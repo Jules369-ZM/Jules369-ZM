@@ -175,9 +175,9 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C165%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C174%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C088%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C099%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -185,49 +185,49 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Go                       19 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   38.34 % 
-Markdown                 9 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Text                     6 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Bash                     4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Other                    3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Go                       22 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   38.54 % 
+Markdown                 10 hrs 46 mins      █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Text                     5 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Bash                     5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Other                    4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 
 🔥 Editors: 
-Claude Code              45 hrs 55 mins      ███████████████████████░░   90.46 % 
-VS Code                  4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Claude Code              53 hrs 55 mins      ███████████████████████░░   93.02 % 
+VS Code                  4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                44 hrs 1 min        ██████████████████████░░░   86.70 % 
-ai-playbook              3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-bevura                   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-dev-playbook             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-scratchpad               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+ZamBetPro                52 hrs 4 mins       ██████████████████████░░░   89.84 % 
+ai-playbook              2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+dev-playbook             51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+bevura                   50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+ai-rules                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 8 mins (94.84%)
+⏱ AI Coding Time: 56 hrs 9 mins (96.88%)
 
-✍️ 18,960 lines written by AI, 112 lines written by hand (99.41% AI-written)
+✍️ 20,505 lines written by AI, 110 lines written by hand (99.47% AI-written)
 
-🔤 37,161,388 Input Tokens, 3,404,122 Output Tokens
+🔤 42,002,057 Input Tokens, 4,074,503 Output Tokens
 
-💵 $932.77 Estimated AI Cost This Week
+💵 $1149.37 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 182 AI Prompts
+🧠 26 AI Sessions, 198 AI Prompts
 
-Opus                     172,127 lines       █████████████████████████   100.00 % 
+Opus                     20,594 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.41% of written lines came from AI
-📚 Verbose Prompter — average 2,132 characters per prompt
+🤖 AI-Driven — 99.47% of written lines came from AI
+📚 Verbose Prompter — average 2,185 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.66% of changed lines were hand-edited
+🚀 High AI Trust — 12.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 01:34:45 UTC
+ Last Updated on 09/10/2026 08:12:47 UTC
 <!--END_SECTION:waka-->
 
 </div>
