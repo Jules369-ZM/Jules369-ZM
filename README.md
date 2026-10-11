@@ -185,49 +185,49 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Go                       21 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   35.96 % 
-Markdown                 9 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Text                     7 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Other                    6 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Bash                     5 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Go                       16 hrs 39 mins      ████████░░░░░░░░░░░░░░░░░   32.94 % 
+Markdown                 9 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Other                    6 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Text                     5 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Bash                     5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 
 🔥 Editors: 
-Claude Code              54 hrs 33 mins      ███████████████████████░░   93.13 % 
-VS Code                  4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Claude Code              47 hrs 10 mins      ███████████████████████░░   93.27 % 
+VS Code                  3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                51 hrs 29 mins      ██████████████████████░░░   87.88 % 
-ai-playbook              2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-dev-playbook             58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-bevura                   50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-claude-501               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+ZamBetPro                43 hrs 28 mins      █████████████████████░░░░   85.96 % 
+ai-playbook              2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+dev-playbook             58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+bevura                   50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+claude-501               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 46 mins (96.9%)
+⏱ AI Coding Time: 48 hrs 58 mins (96.84%)
 
-✍️ 19,944 lines written by AI, 56 lines written by hand (99.72% AI-written)
+✍️ 19,601 lines written by AI, 52 lines written by hand (99.74% AI-written)
 
-🔤 42,440,629 Input Tokens, 3,887,113 Output Tokens
+🔤 39,693,105 Input Tokens, 3,477,163 Output Tokens
 
-💵 $1112.43 Estimated AI Cost This Week
+💵 $995.76 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 203 AI Prompts
+🧠 28 AI Sessions, 202 AI Prompts
 
-Opus                     20,030 lines        █████████████████████████   100.00 % 
+Opus                     19,687 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
-📚 Verbose Prompter — average 2,125 characters per prompt
+🤖 AI-Driven — 99.74% of written lines came from AI
+📚 Verbose Prompter — average 2,020 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 12.28% of changed lines were hand-edited
+🚀 High AI Trust — 0.42% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 00:00:57 UTC
+ Last Updated on 11/10/2026 06:04:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
