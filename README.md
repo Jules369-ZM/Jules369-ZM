@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Julius Martin Banda
 
-### Software Development Officer | Full-Stack Mobile Developer
-### Flutter • Kotlin • Swift • Jetpack Compose • SwiftUI • Firebase • Next.js
+### Software Developer (Flutter) @ Yafika Mobile Money | Founder, JOAT Labs
+### Flutter • Kotlin • Jetpack Compose • Go • Next.js • Firebase
 
 📍 Lusaka, Zambia &nbsp;|&nbsp; 📧 bandahmj@gmail.com &nbsp;|&nbsp; 📱 +260 972 489 279
 
@@ -18,17 +18,20 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=027DFD&center=true&vCenter=true&width=900&lines=Software+Development+Officer;Full-Stack+Mobile+Developer;Flutter+%7C+Kotlin+%7C+Swift+%7C+Jetpack+Compose+%7C+SwiftUI;5%2B+Years+Building+Cross-Platform+Mobile+Apps;Lusaka%2C+Zambia+%F0%9F%87%BF%F0%9F%87%B2" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=027DFD&center=true&vCenter=true&width=900&lines=Software+Developer+%40+Yafika+Mobile+Money;Building+Bevura+%E2%80%94+BoZ-licensed+fintech;Flutter+%7C+Kotlin+%7C+Jetpack+Compose+%7C+Go;5%2B+Years+Building+Cross-Platform+Mobile+Apps;Lusaka%2C+Zambia+%F0%9F%87%BF%F0%9F%87%B2" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Software Developer with **5+ years** of experience building cross-platform mobile applications for Android and iOS. Specialized in **Flutter, Kotlin, Swift, Jetpack Compose, and SwiftUI**, with strong expertise in **Firebase, state management (Bloc, Riverpod), and clean architecture**. Passionate about delivering scalable, secure, and user-friendly mobile solutions — from intuitive UI/UX to reliable backend systems.
+I build production fintech and cross-platform apps for Africa — with **Flutter, Kotlin, Go, and Next.js**. From a Bank of Zambia–licensed mobile wallet to a real-time sports-analytics platform.
 
-- 🔭 Currently working at **Probase Group** as a Software Development Officer
-- 🌱 Exploring **Kotlin Multiplatform (KMM)** and **AI-powered mobile apps**
+**5+ years** in cross-platform mobile. I work on two co-primary stacks: **Flutter/Dart** for fast cross-platform delivery, and **native Android (Kotlin + Jetpack Compose)** when a project needs platform depth. I care about **Clean Architecture**, solid state management (**BLoC/Cubit**), and shipping with tests and CI/CD.
+
+- 🔭 Software Developer (Flutter) at **Yafika Mobile Money**, building **[Bevura](https://bevura.app)**
+- 🧪 Founder of **[JOAT Labs](https://joat-labs.web.app/)**, my studio for Zambian fintech, analytics and lifestyle apps, including **[ZamEdge](https://zamedge.com)**
+- 🌱 Exploring **Kotlin Multiplatform (KMM)** and **AI-powered apps**
 - 💬 Ask me about **Flutter, Dart, Kotlin, Jetpack Compose, SwiftUI, Firebase**
 - 🤝 Open to **freelance projects** and **collaboration**
 - ⚡ Fun fact: I spend more time debugging than writing code — and I enjoy both
@@ -85,14 +88,15 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| **Bevura** | All-in-one finance app — village banking, savings, loans, bill payments, airtime & money transfers | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.bevura) |
-| **Unka Go** | Ride-hailing app for passengers | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.unka) |
-| **Unka Go Driver** | Ride-hailing app for drivers | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.unka.driver) |
-| **Penda** | MSME-focused financial services app | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.msme) |
-| **Nyamula** | Mobile application | Flutter | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.nyamula) |
-| **eWorkers** | Multi-platform app for Workers' Compensation Fund (WCFCB) | Flutter | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.workers) |
-| **NRFA POS** | e-toll POS system for National Road Fund Agency | Flutter | — |
-| **ZRL POS** | e-ticketing POS system for Zambia Railways Limited | Flutter | — |
+| **Bevura** | Bank of Zambia–licensed all-in-one wallet — village banking, savings, loans, bill payments, airtime & transfers, plus an agent network (Yafika Mobile Money) | Flutter, Firebase, Shorebird | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=zm.co.yafika.bevura) |
+| **bevura.app** | Bevura's marketing site, with customer onboarding guides | Jaspr (Dart) | [![Live](https://img.shields.io/badge/Live-027DFD?style=flat&logo=google-chrome&logoColor=white)](https://bevura.app) |
+| **ZamEdge** | Football analytics platform — a deterministic ranking engine (Poisson/xG, Elo, de-overround odds, consensus ensemble), no LLM in the prediction path | Go, PostgreSQL, RabbitMQ, React, TypeScript | [![Live](https://img.shields.io/badge/Live-027DFD?style=flat&logo=google-chrome&logoColor=white)](https://zamedge.com) |
+| **Unka Go** | Zambian ride-hailing — rider, driver, agent and customer-care apps, plus a vendor POS / food-delivery app | Flutter, Swift, Kotlin | — |
+| **Penda** | MSME business-finance app — dashboard, inventory, role-based access (UNCDF) | Flutter, Firebase | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.msme) |
+| **Nyamula** | Logistics / transporter marketplace — delivery jobs, document uploads, SMS-OTP | Flutter (BLoC) | [![Play Store](https://img.shields.io/badge/Play_Store-3DDC84?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.probase.nyamula) |
+| **eWorkers** | Workers' Compensation Fund (WCFCB) — Laravel REST API and Flutter app for claims, approvals and payments | Laravel, Flutter | — |
+| **NRFA e-Toll** | e-toll payment app for the National Road Fund Agency, on field toll devices | Kotlin, Jetpack Compose | — |
+| **ZRL POS** | Agent POS for Zambia Railways train tickets — QR, Telpo printer, sales reports | Flutter, Kotlin | — |
 | **ChumaSplit** | Full-stack AI-powered expense splitting web app | Next.js 15, Firebase, Genkit AI | [![Live](https://img.shields.io/badge/Live-027DFD?style=flat&logo=google-chrome&logoColor=white)](https://chuma-split.web.app/) |
 | **UbuntuQuotes** | AI-powered inspirational quotes platform | Next.js, Gemini AI, ZenQuotes | [![Live](https://img.shields.io/badge/Live-027DFD?style=flat&logo=google-chrome&logoColor=white)](https://ubuntu-quotes.web.app/) |
 | **Portfolio & CMS** | Personal portfolio with admin CMS dashboard | Next.js, React, Firebase | [![Live](https://img.shields.io/badge/Live-027DFD?style=flat&logo=google-chrome&logoColor=white)](https://joat-labs.web.app/) |
@@ -101,9 +105,17 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 
 ## 💼 Professional Experience
 
+### 🏢 Yafika Mobile Money — Lusaka, Zambia
+
+**Software Developer (Flutter)** *(March 2026 – Present)*
+- Build **Bevura**, a Bank of Zambia–licensed (06/PSB/2024) fintech app for underserved Zambian communities
+- Ship one Flutter (BLoC) codebase across Android, iOS, web and Windows — live on Google Play and the App Store
+- Integrate local rails: Airtel, MTN and Zamtel mobile money, ZESCO, DStv/GOtv
+- Built the Bevura marketing site, [bevura.app](https://bevura.app), in Jaspr (Dart)
+
 ### 🏢 Probase Group — Lusaka, Zambia
 
-**Software Development Officer** *(May 2024 – Present)*
+**Software Development Officer** *(May 2024 – March 2026)*
 - Lead the design and delivery of cross-platform mobile apps using Flutter, Kotlin, and Swift
 - Architect scalable solutions following Clean Architecture and MVVM patterns
 - Conduct code reviews and mentor junior developers
@@ -134,9 +146,11 @@ Software Developer with **5+ years** of experience building cross-platform mobil
 - App Development using Dart Programming Language
 - Flutter Fundamentals — Learn to Build Cross-Platform Apps
 - Introduction to Mobile App Development with Flutter
-- Front End Development Libraries V8
-- Legacy JavaScript Algorithms and Data Structures V7
-- Legacy Responsive Web Design V8
+- freeCodeCamp — Responsive Web Design (2025)
+- freeCodeCamp — JavaScript Algorithms and Data Structures (2025)
+- freeCodeCamp — Front End Development Libraries (2025)
+- freeCodeCamp — Back End Development and APIs (2025)
+- freeCodeCamp — Data Visualization (2025)
 
 ---
 
