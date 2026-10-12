@@ -32,6 +32,7 @@ jobs:
           SHOW_SHORT_INFO: "false"
           SHOW_UPDATED_DATE: "true"
           SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_AI_CODING: "false"       # weekly AI breakdown (AI vs hand lines, cost); defaults on
 
           COMMIT_BY_ME: "true"
           COMMIT_MESSAGE: "Updated WakaTime stats"
