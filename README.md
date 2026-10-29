@@ -189,9 +189,9 @@ I build production fintech and cross-platform apps for Africa — with **Flutter
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C276%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C285%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C212%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C222%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -199,26 +199,26 @@ I build production fintech and cross-platform apps for Africa — with **Flutter
 🕑︎ Time Zone: Africa/Lusaka
 
 💬 Programming Languages: 
-Dart                     14 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Markdown                 13 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Go                       7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Other                    4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Bash                     3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Dart                     20 hrs 28 mins      ███████████░░░░░░░░░░░░░░   42.37 % 
+Markdown                 11 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Other                    5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Go                       5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+TypeScript               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 3 mins       █████████████████████░░░░   84.37 % 
-VS Code                  7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Claude Code              39 hrs 2 mins       ████████████████████░░░░░   80.78 % 
+VS Code                  9 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
 
 🐱‍💻 Projects: 
-ZamBetPro                23 hrs 39 mins      ████████████░░░░░░░░░░░░░   48.61 % 
-bevura                   12 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-EH_Nexus                 5 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-ai-playbook              2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-dev-playbook             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+bevura                   19 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   41.03 % 
+ZamBetPro                14 hrs 47 mins      ████████░░░░░░░░░░░░░░░░░   30.59 % 
+EH_Nexus                 6 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+ai-playbook              3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+dev-playbook             1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 
 
- Last Updated on 28/10/2026 23:55:09 UTC
+ Last Updated on 29/10/2026 03:39:09 UTC
 <!--END_SECTION:waka-->
 
 </div>
