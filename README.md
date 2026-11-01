@@ -193,8 +193,32 @@ I build production fintech and cross-platform apps for Africa — with **Flutter
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C256%20hrs%2027%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 01/11/2026 01:41:58 UTC
+```text
+🕑︎ Time Zone: Africa/Lusaka
+
+💬 Programming Languages: 
+Dart                     36 hrs 13 mins      █████████████░░░░░░░░░░░░   52.63 % 
+Markdown                 10 hrs 54 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Other                    8 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Go                       6 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Bash                     3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+
+🔥 Editors: 
+Claude Code              54 hrs 31 mins      ████████████████████░░░░░   79.20 % 
+VS Code                  14 hrs 18 mins      █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+
+🐱‍💻 Projects: 
+bevura                   29 hrs 10 mins      ███████████░░░░░░░░░░░░░░   42.37 % 
+EH_Nexus                 18 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+ZamBetPro                10 hrs 29 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+ai-playbook              5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+dev-playbook             1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+```
+
+
+ Last Updated on 01/11/2026 08:27:57 UTC
 <!--END_SECTION:waka-->
 
 </div>
